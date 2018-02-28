@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject#"
+     xml:base="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject#"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_0dcf21c9_460c_4799_9301_e14436bf1dfa -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_0dcf21c9_460c_4799_9301_e14436bf1dfa">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_fd70d69f_6719_414d_b0f7_16a14b291db1"/>
+        <rdfs:label xml:lang="en">Cebuano</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_183fff20_c7ff_401a_a481_a60640d92c72 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_183fff20_c7ff_401a_a481_a60640d92c72">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_fd70d69f_6719_414d_b0f7_16a14b291db1"/>
+        <rdfs:label xml:lang="en">Tagalog</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_2b73ae32_14e8_4015_a5a0_0d9f8c7f0276 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_2b73ae32_14e8_4015_a5a0_0d9f8c7f0276">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_fd70d69f_6719_414d_b0f7_16a14b291db1"/>
+        <rdfs:label xml:lang="en">Pangasinan</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_38a99293_84d0_441a_83ec_2cc27829e1ac -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_38a99293_84d0_441a_83ec_2cc27829e1ac">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_fd70d69f_6719_414d_b0f7_16a14b291db1"/>
+        <rdfs:label xml:lang="en">Ilocano</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_845686aa_19bf_4080_a556_b6b39486bec9 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_845686aa_19bf_4080_a556_b6b39486bec9">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_fd70d69f_6719_414d_b0f7_16a14b291db1"/>
+        <rdfs:label xml:lang="en">Hiligaynon</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_8818ae3a_6fe3_40ae_9e66_abc20b0f7da9 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_8818ae3a_6fe3_40ae_9e66_abc20b0f7da9">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_fd70d69f_6719_414d_b0f7_16a14b291db1"/>
+        <rdfs:label xml:lang="en">Waray</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_8ef08b93_d2c2_4a63_a27a_7eb143a662b9 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_8ef08b93_d2c2_4a63_a27a_7eb143a662b9">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_fd70d69f_6719_414d_b0f7_16a14b291db1"/>
+        <rdfs:label xml:lang="en">Kapampangan</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_a611ab35_983a_45c0_9e27_7b6e1f705b8a -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_a611ab35_983a_45c0_9e27_7b6e1f705b8a">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_fd70d69f_6719_414d_b0f7_16a14b291db1"/>
+        <rdfs:label xml:lang="en">Bikol</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_fccec9b4_a0e2_467d_abc6_2bdd610b57b6 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_fccec9b4_a0e2_467d_abc6_2bdd610b57b6">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_fd70d69f_6719_414d_b0f7_16a14b291db1"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_fd70d69f_6719_414d_b0f7_16a14b291db1 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_fd70d69f_6719_414d_b0f7_16a14b291db1">
+        <rdfs:label xml:lang="en">Philippine Languages and Dialects</rdfs:label>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_fd70d69f_6719_414d_b0f7_16a14b291db1"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2000/01/rdf-schema#label"/>
+        <owl:annotatedTarget xml:lang="en">Philippine Languages and Dialects</owl:annotatedTarget>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">There are 8 major Philippine languages and 187 dialects</rdfs:comment>
+    </owl:Axiom>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_0dcf21c9_460c_4799_9301_e14436bf1dfa"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_183fff20_c7ff_401a_a481_a60640d92c72"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_2b73ae32_14e8_4015_a5a0_0d9f8c7f0276"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_38a99293_84d0_441a_83ec_2cc27829e1ac"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_845686aa_19bf_4080_a556_b6b39486bec9"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_8818ae3a_6fe3_40ae_9e66_abc20b0f7da9"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_8ef08b93_d2c2_4a63_a27a_7eb143a662b9"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject##OWLClass_a611ab35_983a_45c0_9e27_7b6e1f705b8a"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+
