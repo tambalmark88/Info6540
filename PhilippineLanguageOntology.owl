@@ -13,6 +13,23 @@
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_b1689191_61a7_4d56_a6be_173d85e3c3d9 -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_b1689191_61a7_4d56_a6be_173d85e3c3d9"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Classes
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -1941,6 +1958,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c5f6306d_9354_42c5_9cd1_eae4eb2c389a">
         <rdfs:label xml:lang="en">Philippine Official Languages</rdfs:label>
+        <owl:backwardCompatibleWith rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ef1c77ec_deb7_489a_b36d_0aacd3921ee4"/>
     </owl:Class>
     
 
