@@ -53,6 +53,7 @@
     <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_1d9c925f_867f_4b94_bff5_b0482ee494cc -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_1d9c925f_867f_4b94_bff5_b0482ee494cc">
+        <owl:equivalentProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_fc81b0eb_b400_4736_a8da_551149ce7ce2"/>
         <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
         <rdfs:range>
             <owl:Restriction>
@@ -119,7 +120,13 @@
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_258bff81_f734_436d_818a_7f3a6fae8ab6">
         <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
-        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_0d8eda34_e15a_4449_aa56_d835ca7b07fc"/>
+            </owl:Restriction>
+        </rdfs:range>
         <rdfs:range>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
@@ -159,6 +166,13 @@
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
                 <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_5719b6da_e27d_4242_813a_91055989b217"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
                 <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_60e48d7a_98e3_4442_9c53_1613520d6176"/>
             </owl:Restriction>
         </rdfs:range>
@@ -174,6 +188,13 @@
                 <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
                 <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
                 <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_846eb0c3_9941_4d0e_bc8e_68e5b28bece0"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_919db54e_6faf_4c00_9255_852b63c036c4"/>
             </owl:Restriction>
         </rdfs:range>
         <rdfs:range>
@@ -208,7 +229,21 @@
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
                 <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c4a99e4f_c4b7_4705_b3c3_d4b70c9bbc49"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
                 <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ca7321c1_973d_400a_b6e5_094a0686de64"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_d3468cee_fbdd_433b_b6b6_c997120936e1"/>
             </owl:Restriction>
         </rdfs:range>
         <rdfs:range>
@@ -222,7 +257,21 @@
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
                 <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_e1653196_d6bb_499a_9ae4_f891584c5875"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
                 <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_eb04db3e_b8e2_4553_98c3_c1e40e80e0d7"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f9477638_9636_444f_ad01_eab3930f6ae6"/>
             </owl:Restriction>
         </rdfs:range>
         <rdfs:range>
@@ -505,6 +554,24 @@
     
 
 
+    <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_465a1275_9a37_46d3_a192_fce117ca0dba -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_465a1275_9a37_46d3_a192_fce117ca0dba">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+        <rdfs:label xml:lang="en">Hiligaynon</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_a264ab1e_fea4_4fdd_b76e_da127ef49ba9 -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_a264ab1e_fea4_4fdd_b76e_da127ef49ba9">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+        <rdfs:label xml:lang="en">Kapampangan</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
     <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_a491ecdd_84e5_4ed2_89d9_1568330b6d81 -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_a491ecdd_84e5_4ed2_89d9_1568330b6d81">
@@ -570,11 +637,134 @@
     
 
 
+    <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_c2be9504_b65c_45bc_9385_3afe76568f88 -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_c2be9504_b65c_45bc_9385_3afe76568f88">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+        <rdfs:label xml:lang="en">Pangasinan</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
     <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_dc12c210_f99f_44d0_967f_f4384edd587a -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_dc12c210_f99f_44d0_967f_f4384edd587a">
         <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_126be8eb_5b88_42cf_ab6a_71ff2cabcd07"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_3211f820_120e_4cf0_bc66_aa53f0ff2120"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_39317a01_5f26_483a_89c3_280087feb9fb"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_3d04fb56_5721_4597_bd4e_bd8af6c9e81f"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_48cda51c_9f1b_40b1_8bb6_7b1f938c862b"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_7035868f_0e31_42a6_b8e3_6f578bc372d4"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_8e7342b3_36b6_457f_881a_182e3185c325"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_adfdc9ee_1749_4615_8385_e54c851fe3d5"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_d39019ec_f445_43b9_85f5_e8b53922d663"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_d410c9ac_868d_4419_a2f4_613431a3681b"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_dd25ba7d_b631_4eb1_990c_dfdd1249ebbe"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f56ee4db_2b12_44bd_b049_51bb3f2598ab"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f9255b39_546a_4f32_891a_cd531b8839a4"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f9477638_9636_444f_ad01_eab3930f6ae6"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
+                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fdf51354_5c3c_4f0a_bf5f_1426eb0ec877"/>
+            </owl:Restriction>
+        </rdfs:range>
         <rdfs:label xml:lang="en">Ilocano</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_fc81b0eb_b400_4736_a8da_551149ce7ce2 -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_fc81b0eb_b400_4736_a8da_551149ce7ce2">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label xml:lang="en">Philippine_Major_Languages</rdfs:label>
     </owl:ObjectProperty>
     
 
