@@ -720,13 +720,6 @@
                 <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_d08ca28a_ab43_460d_91ce_272a1b6f8794"/>
             </owl:Restriction>
         </rdfs:range>
-        <rdfs:range>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753"/>
-                <owl:maxQualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:maxQualifiedCardinality>
-                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fdf51354_5c3c_4f0a_bf5f_1426eb0ec877"/>
-            </owl:Restriction>
-        </rdfs:range>
         <rdfs:label xml:lang="en">Kapampangan</rdfs:label>
     </owl:ObjectProperty>
     
