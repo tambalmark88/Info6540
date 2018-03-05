@@ -2607,7 +2607,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_02f9b5b6_2274_4875_9f7d_d6862a0a6001">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
+        <rdfs:comment>&quot;Calabarzon (/ká-lɑ-bɑr-zon/), formally known as Southern Tagalog Mainland[2] and designated as Region IV-A, is an administrative region in the Philippines. The region comprises five provinces: Cavite, Laguna, Batangas, Rizal, and Quezon, and one highly urbanized city, Lucena. The name of the region is an acronym of its five component provinces. Its regional center is Calamba City in Laguna. Calabarzon is the most populous region in the Philippines, having 14,414,774 inhabitants in 2015, and is also the country&apos;s second most densely populated after NCR.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">CALABARZON (Region IV-A)</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Calabarzon</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -2763,7 +2765,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_1607fa52_7ff9_4057_a47d_07e3c495d463">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
+        <rdfs:comment>Central Luzon (Kapampangan: Kalibudtang Luzon; Pangasinan: Pegley na Luzon; Ilokano: Tengnga a Luzon; Tagalog: Gitnang Luzon), designated as Region III, is an administrative region in the Philippines, primarily serving to organize the 7 provinces of the vast central plains of the island of Luzon (the largest island), for administrative convenience. The region contains the largest plain in the country and produces most of the country&apos;s rice supply, earning itself the nickname &quot;Rice Granary of the Philippines&quot;. (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Central Luzon (Region III)</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Central_Luzon</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -2799,7 +2803,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_1ec9514c_585f_4afe_868f_3c92a38c798e">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
+        <rdfs:comment>&quot;Cagayan Valley (Ilokano: Tanap ti Cagayan; Ibanag: Tana&apos; na Cagayan; Itawis: Tanap yo Cagayan; Filipino: Lambak ng Cagayan) (designated as Region II) is an administrative region in the Philippines located in the northeastern portion of Luzon. It is composed of five provinces: Batanes, Cagayan, Isabela, Nueva Vizcaya, and Quirino. The region has four cities: Cauayan, Ilagan, Santiago, and Tuguegarao. Most of the region lies in a large valley in northeastern Luzon, between the Cordilleras and the Sierra Madre mountain ranges.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Cagayan Valley (Region II)</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Cagayan_Valley</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4419,7 +4425,9 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c19d2f90_5dcf_42e6_916d_f4ee894fcce7">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
+        <rdfs:comment>&quot;The Bicol Region, also known simply as Bicol, (Central Bicolano: Rehiyon nin Bikol/Kabikolan; Rinconada Bicol: Rehiyon ka Bikol; Filipino: Kabikulan; Spanish: Bicolandia) is a region of the Philippines, designated as Region V. Bicol comprises six provinces, four on the Bicol Peninsula mainland (the southeastern end of Luzon) – Albay, Camarines Norte, Camarines Sur, and Sorsogon – and the offshore island provinces of Catanduanes and Masbate.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Bicol Region (Region V)</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Bicol_Region</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4501,7 +4509,9 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
     <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c5f6306d_9354_42c5_9cd1_eae4eb2c389a -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c5f6306d_9354_42c5_9cd1_eae4eb2c389a">
+        <rdfs:comment>The official languages are Filipino and English. This is provided by the 1987 Constitution as expressed: &quot;Section 7. For purposes of communication and instruction, the official languages of the Philippines are Filipino and, until otherwise provided by law, English.&quot;</rdfs:comment>
         <rdfs:label xml:lang="en">Philippine Official Languages</rdfs:label>
+        <rdfs:seeAlso>http://ncca.gov.ph/subcommissions/subcommission-on-cultural-disseminationscd/language-and-translation/development-of-filipino-the-national-language-of-the-philippines/</rdfs:seeAlso>
         <owl:backwardCompatibleWith rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ef1c77ec_deb7_489a_b36d_0aacd3921ee4"/>
     </owl:Class>
     
@@ -4732,7 +4742,9 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_d6894dfa_d3d5_4390_85bf_e23d6e041c4b">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
+        <rdfs:comment>&quot;Caraga, officially known as the Caraga Administrative Region[2] or simply Caraga Region and designated as Region XIII, is an administrative region in the Philippines occupying the northeastern section of the island of Mindanao. The Caraga Region was created through Republic Act No. 7901 on February 23, 1995.&quot;</rdfs:comment>
         <rdfs:label xml:lang="en">Caraga Region (Region XIII)</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Caraga</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4741,7 +4753,9 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_d914bd23_9e9f_4567_87e0_a76a88e2de5e">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
+        <rdfs:comment>&quot;Central Visayas (Cebuano: Tunga-tungang Kabisay-an; Filipino: Gitnang Kabisayaan) is a region of the Philippines, numerically designated as Region VII. It consists of four provinces (Cebu, Bohol, Negros Oriental and Siquijor) and three highly urbanized cities (Cebu City, Lapu-Lapu and Mandaue). Major islands are the eponymous Cebu, Bohol, and Siquijor, together with the eastern part of Negros island. The regional center is Cebu City. The region is dominated by the native speakers of five Visayan languages: Cebuano, Boholano, Bantayanon, Porohanon and Hiligaynon.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Central Visayas (Region VII)</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Central_Visayas</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4913,8 +4927,10 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed">
         <rdfs:comment rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ef1c77ec_deb7_489a_b36d_0aacd3921ee4"/>
+        <rdfs:comment>&quot;Philippine regions (ISO 3166-2:PH) are administrative divisions that serve primarily to organize the provinces (Filipino: lalawigan) of the country for administrative convenience.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Philippine Regions and Provinces, Languages and Dialects</rdfs:label>
         <rdfs:seeAlso>https://en.wikipedia.org/wiki/Languages_of_the_Philippines</rdfs:seeAlso>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Regions_of_the_Philippines#List_of_regions</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -5037,7 +5053,9 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f32ea7cc_6760_4908_acf9_dc9be3ae8ad8">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
+        <rdfs:comment>It is the administrative and autonomous region because this is where most of the Muslim community resides.</rdfs:comment>
         <rdfs:label xml:lang="en">Autonomous Region in Muslim Mindanao (ARMM)</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Autonomous_Region_in_Muslim_Mindanao</rdfs:seeAlso>
     </owl:Class>
     
 
