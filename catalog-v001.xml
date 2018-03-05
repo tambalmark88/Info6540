@@ -2,9 +2,9 @@
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <uri id="Imports Wizard Entry" name="http://www.semanticweb.org/Philippinelanguagesontology#" uri="PhilippineLanguageOntology.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1520205997098" name="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject" uri="Ontology%20IRI.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1520205997098" name="duplicate:http://www.semanticweb.org/Philippinelanguagesontology" uri="PhilippineLanguageOntology.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1520205997098" name="duplicate:http://www.semanticweb.org/Philippinelanguagesontology" uri="Philippine%20languages%20ontology.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1520205997098" name="http://www.semanticweb.org/markmedd/ontologies/2018/1/untitled-ontology-10" uri="Philippine%20Languages%20and%20Dialects.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1520210448915" name="http://www.semanticweb.org/PhilippineLanguagesandDialectsOntologyProject" uri="Ontology%20IRI.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1520210448915" name="duplicate:http://www.semanticweb.org/Philippinelanguagesontology" uri="PhilippineLanguageOntology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1520210448915" name="duplicate:http://www.semanticweb.org/Philippinelanguagesontology" uri="Philippine%20languages%20ontology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1520210448915" name="http://www.semanticweb.org/markmedd/ontologies/2018/1/untitled-ontology-10" uri="Philippine%20Languages%20and%20Dialects.owl"/>
     </group>
 </catalog>

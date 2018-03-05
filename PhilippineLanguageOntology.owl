@@ -691,6 +691,12 @@
         <rdfs:range>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_8caabd41_188b_42f9_8aec_b7a409099213"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_919db54e_6faf_4c00_9255_852b63c036c4"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_8caabd41_188b_42f9_8aec_b7a409099213"/>
                 <owl:allValuesFrom rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_257ece36_e1fd_45e2_9599_84a611e9a7e8"/>
             </owl:Restriction>
         </rdfs:range>
