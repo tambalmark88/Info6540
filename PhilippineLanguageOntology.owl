@@ -4914,6 +4914,7 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed">
         <rdfs:comment rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ef1c77ec_deb7_489a_b36d_0aacd3921ee4"/>
         <rdfs:label xml:lang="en">Philippine Regions and Provinces, Languages and Dialects</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Languages_of_the_Philippines</rdfs:seeAlso>
     </owl:Class>
     
 
