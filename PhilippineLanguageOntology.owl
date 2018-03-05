@@ -3221,7 +3221,9 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_90a71ce4_a913_4085_8dd9_aac5da3a53ad"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f56ee4db_2b12_44bd_b049_51bb3f2598ab"/>
         <owl:disjointWith rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_8001b8b6_ae58_48e4_8ac5_e1416f44766d"/>
+        <rdfs:comment>Is derived from the phrase &quot;Place of Salt&quot; and is used by 2 million people. Historically originated and used by the Kingdom of Luyag na Cabuloan.</rdfs:comment>
         <rdfs:label xml:lang="en">Pangasinan</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Pangasinan</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4283,7 +4285,9 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_b1a6a45a_e848_4335_92e3_5e601bca61df"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f269a857_acef_4bce_aa5f_699954e15ece"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fc73d6b9_06d3_445d_886a_c56f35e94734"/>
+        <rdfs:comment>It is the fifth-most-spoken native regional language of the Philippines, native to Eastern Visayas. It is the native language of the Waray people and second language of the Abaknon people of Capul, Northern Samar and some Cebuano-speaking peoples of eastern and southern parts of Leyte island. It is the third most spoken language among the Visayan languages, only behind Hiligaynon and Cebuano. The language name comes from the word often heard by non-speakers, &quot;waray&quot; (meaning &quot;none&quot; or &quot;nothing&quot; in Waray.</rdfs:comment>
         <rdfs:label xml:lang="en">Waray</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Waray_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4976,6 +4980,8 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ef1c77ec_deb7_489a_b36d_0aacd3921ee4">
         <rdfs:comment>The Philippines has 1 national language, 2 official languages, 8 major languages and 187 dialects.</rdfs:comment>
         <rdfs:label xml:lang="en">Philippine Languages and Dialects</rdfs:label>
+        <rdfs:seeAlso>http://ncca.gov.ph/subcommissions/subcommission-on-cultural-disseminationscd/language-and-translation/development-of-filipino-the-national-language-of-the-philippines/</rdfs:seeAlso>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Languages_of_the_Philippines</rdfs:seeAlso>
     </owl:Class>
     
 
