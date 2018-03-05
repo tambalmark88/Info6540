@@ -2580,7 +2580,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_01f77eaf_9d93_43c4_a662_8dfebee3e8e2">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
+        <rdfs:comment>&quot;The Ilocos Region (Ilokano: Rehion/Deppaar ti Ilocos; Pangasinan: Sagor na Baybay na Luzon; Filipino: Rehiyon ng Ilocos) is an administrative region of the Philippines, designated as Region I, occupying the northwestern section of Luzon. It is bordered by the Cordillera Administrative Region to the east, the Cagayan Valley to the northeast and southeast, and the Central Luzon to the south. The region comprises four provinces: Ilocos Norte, Ilocos Sur, La Union and Pangasinan. Its regional center is San Fernando, La Union. The 2000 Census reported that the major languages spoken in the region are Ilocano at 66.36% of the total population at that time, Pangasinan with 27.05%, and Tagalog with 3.21%.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Ilocos Region (Region I)</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Ilocos_Region</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -2618,7 +2620,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_035704ed_6977_4cb2_b33f_0de1742a36c4">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
+        <rdfs:comment>&quot;Northern Mindanao (Filipino: Hilagang Kamindanawan, Cebuano: Amihanang Mindanao) is an administrative region in the Philippines, designated as Region X. It comprises five provinces: Camiguin, Misamis Oriental, Lanao del Norte, Bukidnon and Misamis Occidental and two cities classified as highly urbanized, all occupying the north-central part of Mindanao island, and the island-province of Camiguin. The regional center is Cagayan de Oro. Lanao del Norte was transferred to Northern Mindanao from Region XII (then called Central Mindanao) by virtue of Executive Order No. 36 in September 2001.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Northern Mindanao (Region X)</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Northern_Mindanao</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -2664,7 +2668,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_08f9ed1d_b269_428d_8c8e_0f2c56532428">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
+        <rdfs:comment>&quot;Eastern Visayas (Waray: Sinirangan Kabisay-an; Cebuano: Sidlakang Kabisay-an; Filipino: Silangang Kabisayaan) is an administrative region in the Philippines, designated as Region VIII. It consists of three main islands, Samar, Leyte and Biliran. The region has six provinces, one independent city and one highly urbanized city [3] namely, Biliran, Leyte, Northern Samar, Samar, Eastern Samar, Southern Leyte, Ormoc and Tacloban. The highly urbanized city of Tacloban is the sole regional center. These provinces and cities occupy the easternmost islands of the Visayas group of islands.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Eastern Visayas (Region VIII)</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Eastern_Visayas</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -2825,7 +2831,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_1f9584ff_9c0f_49f8_86dc_fbecac745c53">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
+        <rdfs:comment>&quot;Metropolitan Manila[1][7] (Filipino: Kalakhang Maynila, Kamaynilaan) is the seat of government and one of the three defined metropolitan areas of the Philippines. It is officially known as the National Capital Region (NCR), and was commonly known as Metro Manila or simply Manila. It is the most densely populated region of the country.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">National Capital Region (NCR)</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Metro_Manila</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -2945,7 +2953,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_320cc82a_256e_4f91_a756_0553741869bb">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
+        <rdfs:comment>&quot;Cordillera Administrative Region (Ilokano: Rehion/Deppaar Administratibo ti Kordiliera; Filipino: Rehiyong Pampangasiwaan ng Cordillera), designated as CAR, is an administrative region in the Philippines situated within the island of Luzon. The region, officially created on July 15, 1987.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Cordillera Administrative Region (CAR)</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Cordillera_Administrative_Region</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3499,7 +3509,9 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_62434337_8768_4bea_b461_4249124bd40a">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
+        <rdfs:comment>&quot;Davao Region, formerly called Southern Mindanao (Cebuano: Habagatang Mindanao; Filipino: Timog Mindanao), is an administrative region in the Philippines, designated as Region XI. Dávao is the Hispanicized pronunciation of daba-daba, the Bagobo word for &quot;fire&quot; (the Cebuano translation is kalayo).&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Davao Region (Region XI)</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Davao_Region</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -5044,7 +5056,9 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f3073f43_4708_43f3_9ddf_554be105fa33">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
+        <rdfs:comment>&quot;The Southwestern Tagalog Region, officially designated as MIMAROPA Region, is an administrative region in the Philippines. It was also formerly designated as Region IV-B until 2016. It is one of two regions in the country having no land border with another region (the other being Eastern Visayas). The name is an acronym combination of its constituent provinces: Mindoro (divided into Occidental Mindoro and Oriental Mindoro), Marinduque, Romblon and Palawan. The region was part of the now-defunct Southern Tagalog region until 17 May 2002. On 23 May 2005, Palawan and the highly urbanized city of Puerto Princesa were moved to the region of Western Visayas by Executive Order No. 429.&quot; (Wikipedia, 2018).</rdfs:comment>
         <rdfs:label xml:lang="en">Southwestern Region MIMAROPA (Region IV-B)</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Mimaropa</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -5092,7 +5106,9 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f7f5e96e_3adc_4855_bbb2_86f5bb61b972">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
+        <rdfs:comment>&quot;Soccsksargen (officially styled as SOCCSKSARGEN) (pronounced [sokˈsardʒɛn]) is an administrative region of the Philippines, located in south-central Mindanao. It is numerically designated as Region XII. The name is an acronym that stands for the region&apos;s four provinces and 2 cities (South Cotabato, Cotabato City, North Cotabato, Sultan Kudarat, Sarangani and General Santos City). The region used to be called Central Mindanao.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">SOCCSKSARGEN (Region XII)</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Soccsksargen</rdfs:seeAlso>
     </owl:Class>
     
 
