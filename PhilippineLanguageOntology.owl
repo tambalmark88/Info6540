@@ -2386,6 +2386,16 @@
     
 
 
+    <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_d0b691b1_9469_42cb_815a_1f3fe23b81a1 -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_d0b691b1_9469_42cb_815a_1f3fe23b81a1">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:label xml:lang="en">isUsed</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
     <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_dc12c210_f99f_44d0_967f_f4384edd587a -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_dc12c210_f99f_44d0_967f_f4384edd587a">
@@ -3008,7 +3018,9 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_d08ca28a_ab43_460d_91ce_272a1b6f8794"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fdf51354_5c3c_4f0a_bf5f_1426eb0ec877"/>
         <owl:disjointWith rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_84618296_46bc_464a_849d_14cf35b865ab"/>
+        <rdfs:comment>Other terms for Pampango or Pampangan. An Austronesian-based language and historically used by Lakans of the KIngdom of Tondo.</rdfs:comment>
         <rdfs:label xml:lang="en">Kapampangan</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Kapampangan_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3398,7 +3410,9 @@
         <owl:disjointWith rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_b0c2fbf0_c570_45c1_8e6c_de9c292567df"/>
         <owl:disjointWith rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_b1438542_75d0_4a51_a716_bdfb56e36e7c"/>
         <owl:disjointWith rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c907eece_d3bc_427d_91bc_9ca659aa6eba"/>
+        <rdfs:comment>Also known as BIsaya or VIsaya because of its regionalized location usages, however, is not limited to Visayan regions alone. It is as well, an Austronesian-based language.</rdfs:comment>
         <rdfs:label xml:lang="en">Cebuano</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Cebuano_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3407,7 +3421,10 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_5ab93f6a_75b3_491b_8ec7_7560db792a12">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_a17a9eb4_4b7b_4406_acd9_278c849cb509"/>
+        <rdfs:comment>This is the designated English variation widely used in the Philippines.
+This is evident in the usages in spelling e.g. color instead of UK English colour.</rdfs:comment>
         <rdfs:label xml:lang="en">American English</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Filipino_language#cite_note-Filipino-Tagalog-Not-So-Simple-6</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3599,7 +3616,9 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_90a71ce4_a913_4085_8dd9_aac5da3a53ad"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c2b8f24a_58f7_42c9_9b2b_7a975f609e8e"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fc73d6b9_06d3_445d_886a_c56f35e94734"/>
+        <rdfs:comment>It is a language used in Bicolandia -- it is greatly influenced by Spanish language.</rdfs:comment>
         <rdfs:label xml:lang="en">Bikol</rdfs:label>
+        <rdfs:seeAlso>https://en.wikivoyage.org/wiki/Bikol_phrasebook</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3748,7 +3767,9 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f9255b39_546a_4f32_891a_cd531b8839a4"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f9477638_9636_444f_ad01_eab3930f6ae6"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fdf51354_5c3c_4f0a_bf5f_1426eb0ec877"/>
+        <rdfs:comment>Also known as Ilokano. It is an Austronesian-based language similar to Fijian, Hawaiian, Samoan, or Tahitian. It is the third most spoken in the Philippines.</rdfs:comment>
         <rdfs:label xml:lang="en">Ilocano</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Ilocano_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3915,7 +3936,9 @@
     <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_90a71ce4_a913_4085_8dd9_aac5da3a53ad -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_90a71ce4_a913_4085_8dd9_aac5da3a53ad">
+        <rdfs:comment>The Philippine major languages are distributed in the three different major islands such as Tagalog, Pangasinan or Pangalatuk, Kapampangan, Bikol are spoken in LUzon Island, Cebuano and Hiligaynon are generally spoken in the two major islands in Central and Southern Philippines, which are VIsayas and MIndanao.</rdfs:comment>
         <rdfs:label xml:lang="en">Philippine 8 Major Languages</rdfs:label>
+        <rdfs:seeAlso>http://ncca.gov.ph/subcommissions/subcommission-on-cultural-disseminationscd/language-and-translation/development-of-filipino-the-national-language-of-the-philippines/</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4029,7 +4052,9 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_dd25ba7d_b631_4eb1_990c_dfdd1249ebbe"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f9477638_9636_444f_ad01_eab3930f6ae6"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fc73d6b9_06d3_445d_886a_c56f35e94734"/>
+        <rdfs:comment>Also known as Ilonggo -an Austronesian-based language. It is widely spoken by over 5 million people around the Visayan regions and few from Mindanao region.</rdfs:comment>
         <rdfs:label xml:lang="en">Hiligaynon</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Hiligaynon_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4067,7 +4092,9 @@
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_a17a9eb4_4b7b_4406_acd9_278c849cb509">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c5f6306d_9354_42c5_9cd1_eae4eb2c389a"/>
         <owl:disjointWith rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_be2a9f1c_8158_468b_bc34_0dd7ade9f0dd"/>
+        <rdfs:comment>is designated by the Commission on the Flipino Language as the second official language. It is also legally used and required language in Philippine laws and courts, official publications, and as medium of instruction from grade school to university.</rdfs:comment>
         <rdfs:label xml:lang="en">English</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Philippine_English</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4376,7 +4403,10 @@
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_be2a9f1c_8158_468b_bc34_0dd7ade9f0dd">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c5f6306d_9354_42c5_9cd1_eae4eb2c389a"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_caa2ad0c_9647_43db_9c73_70dbdaf0dab6"/>
+        <rdfs:comment>Filipino, formerly called as Pilipino but because of the origin is Spanish then the Department of Education and Culture decided to re-align it to its Spanish origin - Filipinas - originally taken from a Spanish King Philip.</rdfs:comment>
+        <rdfs:comment>Referernce: https://en.wikipedia.org/wiki/Filipino_language#cite_note-Filipino-Tagalog-Not-So-Simple-6</rdfs:comment>
         <rdfs:label xml:lang="en">Filipino</rdfs:label>
+        <rdfs:seeAlso>is the standard register of the Tagalog language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4533,7 +4563,9 @@
     <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_caa2ad0c_9647_43db_9c73_70dbdaf0dab6 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_caa2ad0c_9647_43db_9c73_70dbdaf0dab6">
+        <rdfs:comment>&quot;FILIPINO, the national language of the Philippines was finally settled in the 1987 Constitution. Article XIV section 6 states that “the National language of the Philippines is Filipino. As it evolves, it shall be further developed and enriched on the basis of existing Philippine and other languages.&quot; (Belvez, 2015)</rdfs:comment>
         <rdfs:label xml:lang="en">Philippine National Language</rdfs:label>
+        <rdfs:seeAlso>http://ncca.gov.ph/subcommissions/subcommission-on-cultural-disseminationscd/language-and-translation/development-of-filipino-the-national-language-of-the-philippines/</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4574,6 +4606,7 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_a19fe821_68f8_465f_9128_2a3d0ddaead0"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_df7dea1b_6392_4b7f_abf1_475666d05a71"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_e1653196_d6bb_499a_9ae4_f891584c5875"/>
+        <rdfs:comment>This is one of the most special dialects in the country as this is a very Spanish-based one.</rdfs:comment>
         <rdfs:label xml:lang="en">Chavacano</rdfs:label>
     </owl:Class>
     
@@ -4714,7 +4747,9 @@
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_d9859dde_76d0_4c70_8ec7_7580730af918">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_90a71ce4_a913_4085_8dd9_aac5da3a53ad"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_be2a9f1c_8158_468b_bc34_0dd7ade9f0dd"/>
+        <rdfs:comment>is widely spoken in the National Capital Region and surrounding provinces but with few distinct accents and intonaions. 25% of the Philippine population use this language.</rdfs:comment>
         <rdfs:label xml:lang="en">Tagalog</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Tagalog_language</rdfs:seeAlso>
     </owl:Class>
     
 
