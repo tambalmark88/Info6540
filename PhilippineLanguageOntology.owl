@@ -2679,6 +2679,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_095f73ed_33eb_4fe7_92e8_6e8e62e40388">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c19d2f90_5dcf_42e6_916d_f4ee894fcce7"/>
+        <rdfs:comment>Is one of the provinces of Bicol Region.</rdfs:comment>
         <rdfs:label xml:lang="en">Albay</rdfs:label>
     </owl:Class>
     
@@ -2782,7 +2783,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_160afaba_58b2_495b_8623_fc43a2f3ac2c">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_eb04db3e_b8e2_4553_98c3_c1e40e80e0d7"/>
+        <rdfs:comment>&quot;Maranao (Mëranaw [ˈmәranaw]) is an Austronesian language spoken by the Maranao people in the provinces of Lanao del Norte and Lanao del Sur and in Sabah, Malaysia. Unique among other Danao languages, Maranaoan is spoken with a distinct downstep accent, as opposed to stress accent.&quot; (Wikipedia, 2018).</rdfs:comment>
         <rdfs:label xml:lang="en">Maranao</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Maranao_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3000,6 +3003,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_33e4e16d_927e_49ad_ab6c_a512fa411146">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f32ea7cc_6760_4908_acf9_dc9be3ae8ad8"/>
+        <rdfs:comment>Is one of the provinces of the Autonomous Region in Muslim MIndanao</rdfs:comment>
         <rdfs:label xml:lang="en">Maguindanao</rdfs:label>
     </owl:Class>
     
@@ -3018,7 +3022,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_34dbc870_09cd_4e15_87b3_a049dfa883b5">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_50b47c3c_a8bd_4e94_bacd_b81af284622e"/>
+        <rdfs:comment>&quot;Pangutaran Sama, also known as Siyama, is the language of the Sama people of the Sulu Archipelago. It is not quite intelligible with other varieties of Sinama.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Pangutaran Sama</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Pangutaran_Sama_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3091,7 +3097,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_3cf19016_7c3f_426f_870c_dbd377319b63">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_33e4e16d_927e_49ad_ab6c_a512fa411146"/>
+        <rdfs:comment>&quot;Maguindanaon is an Austronesian language spoken by majority of the population of Maguindanao province in the Philippines. It is also spoken by sizable minorities in different parts of Mindanao such as the cities of Zamboanga, Davao, and General Santos, and the provinces of North Cotabato, Sultan Kudarat, South Cotabato, Sarangani, Zamboanga del Sur, Zamboanga Sibugay, as well as Metro Manila. This was the language of the historic Sultanate of Maguindanao, which existed before and during the Spanish colonial period from 1500–1888.&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Magindanao</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Maguindanao_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3118,7 +3126,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_42208b5e_9610_42e8_b677_11a91a2819eb">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
+        <rdfs:comment>&quot;Western Visayas (Hiligaynon: Kabisay-an Nakatundan; Filipino: Kanlurang Kabisayaan) is an administrative region in the Philippines, numerically designated as Region VI. It consists of six provinces (Aklan, Antique, Capiz, Guimaras, Iloilo and Negros Occidental) and two highly urbanized cities (Bacolod City and Iloilo City). The regional center is Iloilo City. The region is dominated by the native speakers of five Visayan languages: Kinaray-a, Hiligaynon, Aklanon, and Capiznon.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Western Visayas (Region VI)</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Western_Visayas</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3259,7 +3269,9 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_50b47c3c_a8bd_4e94_bacd_b81af284622e"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_a19fe821_68f8_465f_9128_2a3d0ddaead0"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_df7dea1b_6392_4b7f_abf1_475666d05a71"/>
+        <rdfs:comment>&quot;Tausug (Tausug: Bahasa Sūg, Malay: Bahasa Suluk) is a regional language spoken in the province of Sulu in the Philippines, in the eastern area of the state of Sabah, Malaysia, and in North Kalimantan, Indonesia by the Tausūg people.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Tausug</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Tausug_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3323,6 +3335,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_50b47c3c_a8bd_4e94_bacd_b81af284622e">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f32ea7cc_6760_4908_acf9_dc9be3ae8ad8"/>
+        <rdfs:comment>Is one of the provinces of the Autonomous Region in Muslim MIndanao</rdfs:comment>
         <rdfs:label xml:lang="en">Sulu</rdfs:label>
     </owl:Class>
     
@@ -3332,7 +3345,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_514ba13a_10d5_4303_841c_73245970ac8a">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
+        <rdfs:comment>&quot;Zamboanga Peninsula (Chavacano: Peninsula de Zamboanga; Cebuano: Lawis sa Zamboanga; Filipino: Tangway ng Zamboanga) is an administrative region in the Philippines, designated as Region IX. The region consists of three provinces (Zamboanga del Norte, Zamboanga Sibugay and Zamboanga del Sur) and two cities (Isabela City and Zamboanga City; the former being part of Basilan province and the latter a highly urbanized city). The region was previously known as Western Mindanao before the enactment of Executive Order No. 36 on September 19, 2001. The city of Pagadian is designated as the regional center.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Zamboanga Peninsula (Region IX)</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Zamboanga_Peninsula</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3743,7 +3758,9 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_50b47c3c_a8bd_4e94_bacd_b81af284622e"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_a19fe821_68f8_465f_9128_2a3d0ddaead0"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_df7dea1b_6392_4b7f_abf1_475666d05a71"/>
+        <rdfs:comment>&quot;The Sama language, Sinama (Sama + the infix -in-; also known as Bahasa Bajau), is the language of Sama people of the Sulu Archipelago the Bajau of Sabah, Malaysia and Indonesia. The Sama are one of the most widely dispersed peoples in Southeast Asia.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Sama</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Sama_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4102,7 +4119,9 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_a0f1fcef_8235_41ea_8a33_f96292f7ee85">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_a19fe821_68f8_465f_9128_2a3d0ddaead0"/>
+        <rdfs:comment>&quot;It is a Sama–Bajaw language of Basilan Island in the Philippines. It is the native language of Yakan people, the indigenous as well as the largest ethnic group on the island.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Yakan</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Yakan_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4123,6 +4142,7 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_a19fe821_68f8_465f_9128_2a3d0ddaead0">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f32ea7cc_6760_4908_acf9_dc9be3ae8ad8"/>
+        <rdfs:comment>Is one of the provinces of the Autonomous Region in Muslim MIndanao</rdfs:comment>
         <rdfs:label xml:lang="en">Basilan</rdfs:label>
     </owl:Class>
     
@@ -4203,7 +4223,9 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_a57d79b3_f765_4abc_a40a_54fa994b8ee0">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_33e4e16d_927e_49ad_ab6c_a512fa411146"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_eb04db3e_b8e2_4553_98c3_c1e40e80e0d7"/>
+        <rdfs:comment>&quot;The Danao languages are a group of Austronesian languages spoken in the Philippines. They are Maguindanao and Maranao, each with approximately a million speakers.&quot; (Wkipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Danao</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Danao_languages</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4467,6 +4489,7 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c2b8f24a_58f7_42c9_9b2b_7a975f609e8e">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c19d2f90_5dcf_42e6_916d_f4ee894fcce7"/>
+        <rdfs:comment>Is one of the provinces of Bicol Region.</rdfs:comment>
         <rdfs:label xml:lang="en">Camarines Norte</rdfs:label>
     </owl:Class>
     
@@ -4632,8 +4655,9 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_a19fe821_68f8_465f_9128_2a3d0ddaead0"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_df7dea1b_6392_4b7f_abf1_475666d05a71"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_e1653196_d6bb_499a_9ae4_f891584c5875"/>
-        <rdfs:comment>This is one of the most special dialects in the country as this is a very Spanish-based one.</rdfs:comment>
+        <rdfs:comment>&quot;Refers to a number of Spanish-based creole language varieties spoken in the Philippines. The variety spoken in Zamboanga City, located in the southern Philippine island group of Mindanao, has the highest concentration of speakers. Chavacano is the only Spanish-based creole in Asia.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Chavacano</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Chavacano</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4862,6 +4886,7 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_df7dea1b_6392_4b7f_abf1_475666d05a71">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f32ea7cc_6760_4908_acf9_dc9be3ae8ad8"/>
+        <rdfs:comment>Is one of the provinces of the Autonomous Region in Muslim MIndanao</rdfs:comment>
         <rdfs:label xml:lang="en">Tawi-Tawi</rdfs:label>
     </owl:Class>
     
@@ -4951,6 +4976,7 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_eb04db3e_b8e2_4553_98c3_c1e40e80e0d7">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f32ea7cc_6760_4908_acf9_dc9be3ae8ad8"/>
+        <rdfs:comment>Is one of the provinces of the Autonomous Region in Muslim MIndanao</rdfs:comment>
         <rdfs:label xml:lang="en">Lanao del Sur</rdfs:label>
     </owl:Class>
     
@@ -4990,7 +5016,9 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_33e4e16d_927e_49ad_ab6c_a512fa411146"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_dd25ba7d_b631_4eb1_990c_dfdd1249ebbe"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_eb04db3e_b8e2_4553_98c3_c1e40e80e0d7"/>
+        <rdfs:comment>&quot;The Iranun language also Iranon, Illanun is an Austronesian language belonging to the Danao languages spoken in the provinces of Maguindanao and other part of Lanao del Sur and Lanao del Norte and Cotabato in southern Philippines and the Malaysian state of Sabah. It is the second most spoken language in Maguindanao after the Maguindanao language.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Iranun</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Iranun_language</rdfs:seeAlso>
     </owl:Class>
     
 
