@@ -2601,7 +2601,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_02d66933_c5aa_4a81_9ce9_99d0e436a8b8">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_5418e074_0c02_4d9e_bd3e_e0a3963ee280"/>
+        <rdfs:comment>&quot;Balangao or Balangaw (also called Balangao Bontoc) is a mountain language of northern Philippines. It is spoken in the central area of Mountain Province, and into Tanudan municipality of Kalinga Province.&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Balangao</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Balangao_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -2892,7 +2894,10 @@
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_25439ae5_e283_4526_9c27_81211512417f">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_079c926c_8fe0_4835_9912_a0d7cc6b7c56"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_5418e074_0c02_4d9e_bd3e_e0a3963ee280"/>
+        <rdfs:comment>&quot;Ga&apos;dang is an Austronesian language spoken in northern Luzon, Philippines. Ga&apos;dang spoken in Paracelis, Mountain Province, Luzon; Potia, Ifugao Province; and Tabuk, Kalinga Province.&quot; (Wikipedia, 2016)</rdfs:comment>
+        <rdfs:comment>It is not the same as Gaddang</rdfs:comment>
         <rdfs:label xml:lang="en">Ga&apos;dang</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Ga%27dang_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3741,6 +3746,7 @@ Eskayan has a number of idiosyncrasies that have attracted wide interest. One of
         <owl:disjointWith rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_8001b8b6_ae58_48e4_8ac5_e1416f44766d"/>
         <rdfs:comment>&quot;Kalinga is a dialect continuum of Kalinga Province in the Philippines, spoken by the Igorot people, alongside Ilocano. The Banao Itneg variety is not one of the neighboring Itneg languages.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:comment>Is one of the provinces of Cordillera Administrative Region</rdfs:comment>
+        <rdfs:comment>Kalinga is the name of the province as well as the language</rdfs:comment>
         <rdfs:label xml:lang="en">Kalinga</rdfs:label>
         <rdfs:seeAlso>https://en.wikipedia.org/wiki/Kalinga_language</rdfs:seeAlso>
     </owl:Class>
@@ -3843,7 +3849,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_7a857e3a_ca18_4a3e_9a83_a0d7895e2816">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_079c926c_8fe0_4835_9912_a0d7cc6b7c56"/>
+        <rdfs:comment>&quot;Tuwali language is a native language indigenous to Ifugao. Mainly spoken in the whole province. Its only that it has different varieties that distinguishes the municipality. Kiangan is the oldest town in the province. It derives its name from Kiyyangan, an ancient village near the bank of the Ibulao River across the Lagawe valley. &quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Tuwali</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Tuwali_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4130,7 +4138,9 @@ Reid (1994) reports the following locations for Umiray Dumaget (Central Agta). U
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_90e47663_c428_435c_ae44_0cdad67050c1">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_5418e074_0c02_4d9e_bd3e_e0a3963ee280"/>
+        <rdfs:comment>&quot;Bontoc (Bontok) /bɒnˈtɒk/ (also called Finallig) is the native language of the indigenous Bontoc people of the Mountain Province, in the northern part of the Philippines.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Bontoc</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Bontoc_language</rdfs:seeAlso>
     </owl:Class>
     
 
