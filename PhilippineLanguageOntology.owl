@@ -2702,7 +2702,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_0cd253f8_1ce9_4c7e_8a6b_27e5b7d7c861">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fdf51354_5c3c_4f0a_bf5f_1426eb0ec877"/>
-        <rdfs:label xml:lang="en">Bololan</rdfs:label>
+        <rdfs:comment>&quot;Botolan is a Sambalic language spoken by 32,867 (SIL 2000) Sambal, primarily in the Zambal municipalities of Botolan and Cabangan in the Philippines. The Ayta people of sitio Villar, Botolan, and sitio Kakilingan, Santa Fe, Cabangan also speak a Botolan dialect with some unique lexical items. Botolan has 20 phonemes: 16 consonants and four vowels. Syllable structure is relatively simple. Each syllable contains at least a consonant and a vowel.&quot; (Wikipedia, 2017)</rdfs:comment>
+        <rdfs:label xml:lang="en">Botolan</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Botolan_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -2950,7 +2952,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_2df78a53_cc38_4c63_84ce_a019027d6ca2">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_d08ca28a_ab43_460d_91ce_272a1b6f8794"/>
+        <rdfs:comment>&quot;Bataan Ayta is a dying language of the Philippines. Though it is considered endangered, it is said to still be spoken by an Aeta community in the region of Mariveles in the Philippines.In addition to being known as Bataan Ayta, it can be known as Mariveleño language, Magbikin, Magbukun Ayta, Mariveles Ayta, Bataan Sambal, Ayta, Bataan. Its current language status is threatened&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Bataan Agta</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Bataan_Ayta</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -2959,7 +2963,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_2f41a467_597c_4679_bac9_d81344315b01">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_d08ca28a_ab43_460d_91ce_272a1b6f8794"/>
+        <rdfs:comment>&quot;Mariveleño (also known as Magbikin, Bataan Ayta, or Magbukun Ayta is a Sambalic language. It has around 500 speakers (Wurm 2000) and is spoken within an Aeta community in Mariveles in the Philippines.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Mariveleño</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Marivele%C3%B1o_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3069,7 +3075,7 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_d08ca28a_ab43_460d_91ce_272a1b6f8794"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fdf51354_5c3c_4f0a_bf5f_1426eb0ec877"/>
         <owl:disjointWith rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_84618296_46bc_464a_849d_14cf35b865ab"/>
-        <rdfs:comment>Other terms for Pampango or Pampangan. An Austronesian-based language and historically used by Lakans of the KIngdom of Tondo.</rdfs:comment>
+        <rdfs:comment>&quot;Kapampangan, Pampango, or the Pampangan language is one of the major languages of the Philippines. It is spoken in the province of Pampanga, most parts of Tarlac and Bataan. Kapampangan is also understood in some municipalities of Bulacan and Nueva Ecija and by the Aitas or Aeta of Zambales. The language is also referred to honorifically in the Kapampangan language as Amánung Sísuan, meaning &quot;breastfed/nurtured language.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Kapampangan</rdfs:label>
         <rdfs:seeAlso>https://en.wikipedia.org/wiki/Kapampangan_language</rdfs:seeAlso>
     </owl:Class>
@@ -3237,7 +3243,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_448f6924_3118_4837_b78b_f361caa8b8db">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_4df7d612_a7f3_4817_a3e0_ff29a2c728b5"/>
+        <rdfs:comment>&quot;Ata is a possible extinct Aeta language of Mabinay in the Philippines. It is spoken by no more than 3 or 4 elderly individuals around Mabinay and Bais City, Negros Island, Philippines (Lobel 2013).&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Ata</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Ata_language_(Aeta)</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3340,7 +3348,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_4bde7617_c258_4340_8f95_7fc744c5626f">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_3d04fb56_5721_4597_bd4e_bd8af6c9e81f"/>
-        <rdfs:label xml:lang="en">Itawa</rdfs:label>
+        <rdfs:comment>&quot;Itawis (also Itawit or Tawit as the endonym) is a Northern Philippine language spoken by the Itawis people and is closely related to the Ibanag and Ilocano. Unlike the rest of Philippine languages, Itawit and its relatives use the consonants /z/, /f/, /v/, and /dʒ/ (spelled ⟨dy⟩). For example, fefeg (fan), madyan (maid), kazzing (goat), and bavi (pig). Itawis is spoken by the Itawis people of Northern Luzon who inhabit the provinces of Cagayan Valley. Their range is from the lower Chico and Matalag rivers. In many towns by these rivers, Itawis are found with the Ibanags, and speak Ibanag as well as an example of linguistic adaptation. Speakers of Itawis and Ibanag can easily understand each other because of the close relationship of their languages. The Itawis are linguistically and culturally very closely related to the Ibanag.&quot; (Wikipedia, 2018)</rdfs:comment>
+        <rdfs:label xml:lang="en">Itawis</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Itawis_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3360,7 +3370,9 @@
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_4e2bfbe6_e9b8_4d1b_a65c_ddbe47946dc5">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_22c2af9f_e198_440f_96ca_53ac95adcdf6"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_5418e074_0c02_4d9e_bd3e_e0a3963ee280"/>
+        <rdfs:comment>&quot;Kankanaey (also spelled Kankana-ey) is a South-Central Cordilleran language under the Austronesian family spoken on the island of Luzon in the Philippines primarily by the Kankanaey people. Alternate names for the language include Central Kankanaey, Kankanai, and Kankanay. It is widely used by Cordillerans, alongside Ilocano, specifically people from the Mountain Province and people from the northern part of the Benguet Province. Kankanaey has a slight mutual intelligibility with the Ilocano language.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Kankanaey</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Kankanaey_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3420,7 +3432,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_5335b77f_62c3_4975_83d3_d9d88e2dcebf">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_71ccf953_4b4b_4746_85cf_eec55e0a7694"/>
+        <rdfs:comment>&quot;The Bantayanon language is the regional language of the island of Bantayan in the Philippines. It is a part of the Visayan language family and is closely related to Hiligaynon.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Bantayanon</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Bantayanon_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3689,7 +3703,10 @@ This is evident in the usages in spelling e.g. &quot;color&quot; instead of UK E
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_6c8b7c3d_5239_4bd9_817a_4bd148588bdc">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_336d97e1_b851_413a_aacb_01f060285b88"/>
+        <rdfs:comment>&quot;Eskayan is an artificial auxiliary language of the Eskaya clan of Bohol, an island province of the Philippines. It is grammatically Boholano, the native language of Bohol, with a substituted lexicon. While Eskayan has no mother-tongue speakers, it is taught by volunteers in at least three cultural schools in the southeast interior of the province. Statue of Mariano Datahan, inscribed with Eskayan script
+Eskayan has a number of idiosyncrasies that have attracted wide interest. One of its most immediately remarkable features is its unique writing system of over 1,000 syllabic characters, said to be modeled on parts of the human body, and its non-Philippine lexicon. The earliest attested document in Eskayan provisionally dates from 1908, and was on display at the Bohol Museum until September 2006.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Eskaya</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Eskayan_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3708,7 +3725,9 @@ This is evident in the usages in spelling e.g. &quot;color&quot; instead of UK E
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_6f423d1b_1bd6_464f_ae0c_a6617ee0ec5c">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_4df7d612_a7f3_4817_a3e0_ff29a2c728b5"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_60e48d7a_98e3_4442_9c53_1613520d6176"/>
+        <rdfs:comment>&quot;Magahat (also called Southern Binukidnon) is a Central Philippine language of the mountains of Negros in the Philippines that has been strongly influenced by Cebuano and Hiligaynon. It is similar to Karolanos, but otherwise of uncertain affiliation.&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Magahat</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Magahat_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3720,8 +3739,10 @@ This is evident in the usages in spelling e.g. &quot;color&quot; instead of UK E
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_3d04fb56_5721_4597_bd4e_bd8af6c9e81f"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_7035868f_0e31_42a6_b8e3_6f578bc372d4"/>
         <owl:disjointWith rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_8001b8b6_ae58_48e4_8ac5_e1416f44766d"/>
+        <rdfs:comment>&quot;Kalinga is a dialect continuum of Kalinga Province in the Philippines, spoken by the Igorot people, alongside Ilocano. The Banao Itneg variety is not one of the neighboring Itneg languages.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:comment>Is one of the provinces of Cordillera Administrative Region</rdfs:comment>
         <rdfs:label xml:lang="en">Kalinga</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Kalinga_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3780,7 +3801,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_79348dba_7fcf_44a2_8a6c_4103cbad4fc8">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_336d97e1_b851_413a_aacb_01f060285b88"/>
+        <rdfs:comment>&quot;Boholano (Cebuano: Binol-anon) is a variant of the Cebuano language spoken in the island province of Bohol in the Visayas and a major portion of Southern Leyte, as well as parts of Mindanao, particularly in Northern Mindanao and Caraga Region. It is sometimes erroneously described as a separate language[2] even though Binol-anon originated as a dialect continuum of the Cebuano language. Boholano, especially as spoken in central Bohol, can be distinguished from other Cebuano variants by a few phonetic changes. The semivowel y is pronounced [dʒ] as is the ll sound: iya is pronounced [iˈdʒa]. Ako is pronounced as [aˈho]. Intervocalic l is occasionally pronounced as [w] when following u or o: kulang is pronounced as [ˈkuwaŋ] (the same as Cebu City dialect). The Boholano dialects of western Bohol, including Tagbilaran, though, are almost indistinguishable from other dialects near Cebu City. Furthermore, the phonetic changes detailed above, especially the latter two, can also be observed in the Cebu City dialect.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Boholanon</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Boholano_dialect</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3877,7 +3900,9 @@ Reid (1994) reports the following locations for Umiray Dumaget (Central Agta). U
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_7cf10f7c_ea86_43f7_82c3_076c7db4eea0">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_842e7245_2dd4_4ee9_9ca4_37d6937fcb16"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fdf51354_5c3c_4f0a_bf5f_1426eb0ec877"/>
+        <rdfs:comment>&quot;The Indi language, Mag-indi (or Mag-Indi Ayta) is a Sambalic language with around 5,000 speakers. It is spoken within Philippine Aeta communities in San Marcelino, Zambales, and in the Pampango municipalities of Floridablanca (including in Nabuklod) and Porac. There are also speakers in Lumibao and Maague-ague.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Indi</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Indi_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3944,7 +3969,9 @@ Reid (1994) reports the following locations for Umiray Dumaget (Central Agta). U
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_8441b09a_e16c_4ead_8c2e_e9d5c00c7608">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_71ccf953_4b4b_4746_85cf_eec55e0a7694"/>
+        <rdfs:comment>&quot;Porohanon is a regional Visayan language spoken in the Camotes Islands in the province of Cebu in the Philippines. Its closest relatives are Hiligaynon, Capiznon and Masbateño and is barely intelligible with Cebuano though it shares 87% of its vocabulary with it.&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Porohanon</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Porohanon_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3997,7 +4024,9 @@ Reid (1994) reports the following locations for Umiray Dumaget (Central Agta). U
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_8608364e_5b38_4462_96ce_8882ffb97e62">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_22c2af9f_e198_440f_96ca_53ac95adcdf6"/>
+        <rdfs:comment>&quot;The Ibaloi language (also called Inibaloi) belongs to the Malayo-Polynesian branch of the Austronesian languages family. It is closely related to the Pangasinan language, spoken primarily in the province of Pangasinan, located southwest of Benguet. Ibaloi is spoken in central and southern Benguet and in western Nueva Vizcaya. Dialects are Daklan, Kabayan, Bokod (Ethnologue). Ibaloi phonemes are similar to those found in other Philippine languages with a few exceptions. Many variants of the Ibaloi tongue have naturally occurring /f/, /dʒ/ and /v/, as in sifa (interrogative who), ibjag (to lose one&apos;s grip on something or someone, to let go) and divit (a traditional wrap-around skirt). /ʃ/ is also commonly heard in the La Trinidad valley and nearby areas, as in shima (a particle usually equivalent to the prepositions in, on, or to depending on the sentence construction), but may be occasionally heard as /tʃ/ in some communities.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Ibaloi</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Ibaloi_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4142,7 +4171,14 @@ Reid (1994) reports the following locations for Umiray Dumaget (Central Agta). U
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_945286d4_c023_4c52_bdfe_99f714a5fc28">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_3d04fb56_5721_4597_bd4e_bd8af6c9e81f"/>
+        <rdfs:comment>&quot;Atta is an Austronesian dialect cluster spoken by the Aeta (Agta) Negritos of the northern Philippines. There are three varieties according to Ethnologue. Faire Atta (Southern Atta): spoken near Faire, Rizal, Cagayan
+Pamplona Atta (Northern Cagayan Negrito): spoken in Pamplona, Cagayan; similar to northern Ibanag Pudtol Atta: spoken in Pudtol, Apayao, and the Abulog river area south of Pamplona; Villa Viciosa Atta, supposed once spoken in Villaviciosa, Abra, is presumed to be related, but is unattested. Reid (1994) also reports the following locations for Southern Cagayan Agta.
+Minanga, Peñablanca, Cagayan
+Conyan, Minanga, Peñablanca, Cagayan
+Sapinit, Maconacon, Isabela
+Makagaw (Dupaninan), Cagayan.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Atta</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Atta_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4365,7 +4401,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_a5c5b62e_f0c6_4f39_ab8e_ee4d0a253953">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_adfdc9ee_1749_4615_8385_e54c851fe3d5"/>
+        <rdfs:comment>&quot;Abellen, Abenlen, Aburlin, or Ayta Abellen, is a Sambalic language. It has about 3,500 speakers and is spoken in a few Aeta communities in Tarlac province, Philippines Ayta Abellen itself is part of the Sambalic language family in the Philippines and is closely related to not only the 5 other Ayta dialects, but also the Botolan dialect of Sambal.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Abellen</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Abellen_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4573,6 +4611,7 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f9255b39_546a_4f32_891a_cd531b8839a4"/>
         <rdfs:comment>&quot;Northern Alta (also called Edimala) is a distinctive Aeta language of the mountains of northern Philippines. It is not close to Southern Alta or to other languages of Luzon. Jason Lobel and Laura Robinson have also done fieldwork on Northern Alta in 2006 (Lobel 2013).&apos; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Northern Alta</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Northern_Alta_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4645,7 +4684,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c36edea4_b02a_4011_8392_75d0ad0492e9">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_0061bfb8_7a27_4b14_97df_b6abd9d3a8fb"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_3d04fb56_5721_4597_bd4e_bd8af6c9e81f"/>
+        <rdfs:comment>&quot;Isnag (also called Isneg) is a language spoken by around 40,000 Isnag people of Apayao Province in the Cordillera Administrative Region in the northern Philippines. Around 85% of Isnag are capable of reading the Isnag language. Many Isnag speakers also speak Ilocano.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Isnag</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Isnag_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4840,7 +4881,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_cea8b7e6_56fc_457a_a842_815c76b47954">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_0061bfb8_7a27_4b14_97df_b6abd9d3a8fb"/>
+        <rdfs:comment>&quot;Not to be confused with Isnag or Isneg, a Northern Cordilleran language. Itneg is a South-Central Cordilleran dialect continuum found in the island of Luzon, Philippines. This language and Ilocano are spoken by the Itneg people (sometimes also referred to as the &quot;Tingguian people&quot;) in Abra province. Several ethnic-Itneg dialects are taxonomically part of the neighboring Kalinga language.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Itneg</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Itneg_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4892,7 +4935,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_842e7245_2dd4_4ee9_9ca4_37d6937fcb16"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_adfdc9ee_1749_4615_8385_e54c851fe3d5"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fdf51354_5c3c_4f0a_bf5f_1426eb0ec877"/>
+        <rdfs:comment>&quot;The Antsi (Anchi) language, Mag-antsi, (also Mag-Anchi Ayta) is a Sambalic language with around 4,200 speakers (Stock 2005). It is spoken within Philippine Aeta communities in the Zambal municipalities of Botolan, San Marcelino, and Castillejos; in the Tarlaqueño municipalities of Capas and Bamban; in Mabalacat, Pampanga; and in the City of Angeles.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Antsi</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Antsi_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4976,7 +5021,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_dadae6f0_ce5b_4c19_a0e6_a08d9806a5e3">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_22c2af9f_e198_440f_96ca_53ac95adcdf6"/>
+        <rdfs:comment>&quot;Iwaak (also spelled I-wak or I&apos;wak) is a South-Central Cordilleran language spoken by almost 3,300 people around the Cordillera Central mountain range of Luzon, Philippines. It is a Pangasinic language which makes it closely related to Pangasinan, one of the regional languages in the country, with around 1.2 million speakers. According to Ethnologue, in eastern Itogon municipality, Benguet Province, I-wak is spoken in Tojongan, Bakes, Lebeng, Domolpos, Bujasjas, and Kayo-ko villages. It is also spoken in Salaksak village, Kayapa municipality, Nueva Vizcaya Province.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Iwaak</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Iwaak_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -5025,7 +5072,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_de99e70f_5442_4633_a6e9_ee75783228a8">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fdf51354_5c3c_4f0a_bf5f_1426eb0ec877"/>
+        <rdfs:comment>&quot;Sambal or Sambali is a Sambalic language spoken primarily in the Zambal municipalities of Santa Cruz, Candelaria, Masinloc, Palauig, and Iba, and in the Pangasinense municipality of Infanta in the Philippines; speakers can also be found in Panitian, Quezon, Palawan and Barangay Mandaragat or Buncag of Puerto Princesa. Sambal is also termed Tina in some references. However, the term is considered offensive to the language&apos;s speakers. The pejorative term was first used in around the period 1976 to 1979 by researchers from the Summer Institute of Linguistics (now SIL International).&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Sambal</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Sambal_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -5257,7 +5306,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f29bae8d_eddd_4528_a863_0be3f94c2e14">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_4df7d612_a7f3_4817_a3e0_ff29a2c728b5"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_60e48d7a_98e3_4442_9c53_1613520d6176"/>
+        <rdfs:comment>&quot;Karolanos (also called Northern Binukidnon) is a Central Philippine language spoken in Kabankalan Municipality, Negros Occidental Province, Negros Island, Philippines. It is similar to Magahat, but otherwise of uncertain affiliation.&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Karolanos</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Karolanos_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -5308,7 +5359,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f68ed34f_30e2_485e_8b63_bc61b8f15063">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_d08ca28a_ab43_460d_91ce_272a1b6f8794"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fdf51354_5c3c_4f0a_bf5f_1426eb0ec877"/>
+        <rdfs:comment>&quot;Ambala is a Sambalic language spoken in the Philippines. It has more than 2,000 speakers (Ramos 2004) and is spoken within Aeta communities in the Zambal municipalities of Subic, San Marcelino, and Castillejos; in the city of Olongapo; and in Dinalupihan, Bataan (Ethnologue).&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Ambala</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Ambala_language</rdfs:seeAlso>
     </owl:Class>
     
 
