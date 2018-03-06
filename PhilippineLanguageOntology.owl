@@ -2909,7 +2909,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_260924bb_8c3d_4737_9ffa_ae63d6ea1b40">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c4a99e4f_c4b7_4705_b3c3_d4b70c9bbc49"/>
-        <rdfs:label xml:lang="en">Hiagonon</rdfs:label>
+        <rdfs:comment>&quot;Higaonon is a Manobo language spoken on the island of Mindanao in the Philippines. It is partially (80%) intelligible with Binukid. Higaonon is spoken in the Butuan River basin of north-central Mindanao, comprising northwestern Agusan del Sur Province and the area of Agusan del Norte Province south of Butuan City (Ethnologue).&quot; (Wikipedia, 2016)</rdfs:comment>
+        <rdfs:label xml:lang="en">Higaonon</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Higaonon_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -2998,7 +3000,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_329c2cec_9c84_4e08_a4aa_7ac5b7a02107">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f9255b39_546a_4f32_891a_cd531b8839a4"/>
+        <rdfs:comment>&quot;Kasiguranin (Casiguranin) is the language of Casiguran town in the northern Philippines. It is descended from an early Tagalog dialect that had borrowed heavily from Northeastern Luzon Agta languages. Dilasag, Dinapigue, Maconacon, and Divilacan are primarily Ilokano-speaking towns just to the north of Casiguran.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Kasiguranin</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Kasiguranin_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3805,7 +3809,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_7a490c83_befa_46ad_b01a_d82e35d71ba1">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f9255b39_546a_4f32_891a_cd531b8839a4"/>
+        <rdfs:comment>&quot;Casiguran Dumagat Agta, also known as Dumagat Agta or Casiguran Agta, is an Aeta language of the northern Philippines. It is spoken by around 610 speakers, most of whom live in the San Ildefonso Peninsula, across the bay from Casiguran, Aurora. The language was first documented in 1937 by Christian missionaries, and since then has been continually documented by SIL linguists like Thomas and Janet Headland (Lobel 2013). A New Testament translation was published in 1979, called Bigu a Tipan. Among the Aeta languages, Casiguran Dumagat Agta has been one of the most extensively studied varieties. Casiguran Dumagat is close to Paranan. A dialect called Nagtipunan Agta was discovered by Jason Lobel and Laura Robinson in Nagtipunan, Quirino (Lobel 2013). Casiguran Dumagat is influenced by Tagalog and Kasiguranin. Casiguran Dumagat has eight to ten vowel sounds, compared to the usual four in most Philippine languages.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Casiguran Dumagat Agta</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Casiguran_Dumagat_Agta</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3834,7 +3840,11 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_7bcc0c72_cf5a_45d9_bf11_a4779c8f4c9f">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_e15f3dc0_a7b3_4bd3_b052_1ff8e8512952"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f9255b39_546a_4f32_891a_cd531b8839a4"/>
+        <rdfs:comment>&quot;Umiray Dumaget is difficult to classify. Himes (2002) posits a Greater Central Philippine connection. However, Lobel (2013) believes that Umiray Dumaget may be a primary branch of the Philippine languages, or may be related to the Northeastern Luzon languages, Sambali-Ayta (Central Luzon), or Manide and Inagta Alabat. According to Lobel, Umiray Dumaget does not subgroup in the Central Philippine or even Greater Central Philippine branches (Lobel 2013).&quot; (Wikipedia, 2017)</rdfs:comment>
+        <rdfs:comment>&quot;Umiray Dumaget is spoken along the Pacific coast of eastern Luzon from just south of Baler, Aurora to the area of Infanta, Quezon, and on the northern coast of Polillo Island Himes (2002) reports little dialectal variation
+Reid (1994) reports the following locations for Umiray Dumaget (Central Agta). Umiray, Quezon; Dibut, San Luis, Aurora; Bunbun, Panakulan, Polillo, Quezon&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Umiray Dumagat</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Umiray_Dumaget_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4121,7 +4131,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_9344180e_4556_420a_8009_f92242ee68e6">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_919db54e_6faf_4c00_9255_852b63c036c4"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c4a99e4f_c4b7_4705_b3c3_d4b70c9bbc49"/>
+        <rdfs:comment>&quot;Butuanon is an Austronesian regional language spoken in Agusan del Norte and Agusan del Sur, with some native speakers in Misamis Oriental and Surigao del Norte. It is a part of the Visayan language family and is closely related to other Philippine languages. As of 2007, Butuanon is believed to be spoken by fewer than 500 youngsters in Butuan itself. Butuanon is very closely related to the Tausug language of distant Sulu and the Surigaonon language of neighboring provinces Surigao del Sur and Surigao del Norte.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Butuanon</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Butuanon_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4464,7 +4476,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_919db54e_6faf_4c00_9255_852b63c036c4"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c4a99e4f_c4b7_4705_b3c3_d4b70c9bbc49"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_d3468cee_fbdd_433b_b6b6_c997120936e1"/>
+        <rdfs:comment>&quot;Surigaonon is a Philippine regional language spoken by Surigaonon people in the province of Surigao del Norte, Dinagat Islands, Surigao del Sur, and some portions of Agusan del Norte especially the towns near the Mainit Lake, Agusan del Sur and Davao Oriental. Surigaonon is a Visayan language. It has been heavily influenced by Cebuano due to the influx of many Cebuanos in the region. However, most Cebuano speakers can hardly understand Surigaonon speakers, except for Cebuanos who has been living in the region for years.Surigaonon is very closely related to the Tausug language of Sulu and the Butuanon language of Butuan.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Surigaonon</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Surigaonon_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4557,6 +4571,7 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_bb842f27_b13b_4ff4_ae62_76b705f7e054">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f9255b39_546a_4f32_891a_cd531b8839a4"/>
+        <rdfs:comment>&quot;Northern Alta (also called Edimala) is a distinctive Aeta language of the mountains of northern Philippines. It is not close to Southern Alta or to other languages of Luzon. Jason Lobel and Laura Robinson have also done fieldwork on Northern Alta in 2006 (Lobel 2013).&apos; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Northern Alta</rdfs:label>
     </owl:Class>
     
@@ -4805,7 +4820,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_cda28887_c7e4_41b4_8eec_e3bdf1d6b975">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_3711a969_8cdf_44bc_b9ea_b96a6a363fcc"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_42d7ee3f_01aa_4dd8_9fe4_7718e9d97bd2"/>
+        <rdfs:comment>&quot;Ata (Ata of Davao, Atao Manobo, Langilan) is a Manobo language of northeastern Mindanao of the Philippines. It is spoken in northwest Davao del Norte Province, southeast Bukidnon Province, Compostela Valley Province (northwest border), and Davao del Sur Province (northwest enclave) (Ethnologue).&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Ata Manobo</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Ata_Manobo_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -5027,7 +5044,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_dea0b441_128f_463f_835d_ceb7eb6cc7e4">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_3711a969_8cdf_44bc_b9ea_b96a6a363fcc"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_919db54e_6faf_4c00_9255_852b63c036c4"/>
+        <rdfs:comment>&quot;The Mamanwa language is a Central Philippine language. One of the Aeta languages, it is spoken in the provinces of Agusan del Norte and Surigao del Norte in the Lake Mainit area of Mindanao, Philippines. It had about 5,000 speakers in 1990, mostly Mamanwa. It is a grammatically conservative language, retaining a three-way deictic distinction in its articles which elsewhere is only preserved in some of the Batanic languages.&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Mamanwa</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Mamanwa_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -5153,7 +5172,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ed563b2a_3c52_4ea3_867e_313b6755b8b9">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_919db54e_6faf_4c00_9255_852b63c036c4"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c4a99e4f_c4b7_4705_b3c3_d4b70c9bbc49"/>
+        <rdfs:comment>&quot;Agusan is a Manobo language of northeastern Mindanao in the Philippines. The Omayamnon, Dibabawon, and Rajah Kabunsuwan dialects are divergent.&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Agusan</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Agusan_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -5387,7 +5408,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_feb6ef45_be11_48a5_bd24_9dc549ca9c3a">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_42d7ee3f_01aa_4dd8_9fe4_7718e9d97bd2"/>
+        <rdfs:comment>&quot;Kamayo (Kinamayo or alternatively spelled as Camayo), also called Kadi, Kinadi, or Mandaya, is a minor Austronesian language of the central eastern coast of Mindanao in the Philippines. Kamayo is a language widely used by the Mandayas in the Davao Oriental areas. It is closely related to Tandaganon and Surigaonon. Dialect variations are caused by mixed dialect communications such as the Cebuano language in barangays Mangagoy &amp; Pob. Bislig. The towns of Barobo, Hinatuan, and Lingig has a distinct version spoken. A suffix is usually added in most adjectives in superlative forms; for example, the word &quot;gamay&quot; in Cebuano (English: small) is gamayay while the word &quot;dako&quot; (English: big) is spoken as dako-ay in Bislig. Dialects are classified as North Kamayo and South Kamayo (Ethnologue).&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Kamayo</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Kamayo_language</rdfs:seeAlso>
     </owl:Class>
     
 
