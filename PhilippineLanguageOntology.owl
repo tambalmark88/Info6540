@@ -3067,6 +3067,17 @@
     
 
 
+    <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_38a37f96_7c9f_4b9a_b0ad_4156fc69894d -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_38a37f96_7c9f_4b9a_b0ad_4156fc69894d">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fc73d6b9_06d3_445d_886a_c56f35e94734"/>
+        <rdfs:comment>&quot;Central Bikol, commonly called Bikol Naga, is the most-spoken language in the Bicol Region of southern Luzon, Philippines. It is spoken in the northern and western part of Camarines Sur, second congressional district of Camarines Norte, eastern part of Albay, northeastern part of Sorsogon, San Pascual town in Masbate, and southwestern part of Catanduanes. Central Bikol speakers can be found in all provinces of Bicol and it is a majority language in Camarines Sur. The standard Sprachraum form is based on the Canaman dialect.&quot; (Wikipedia, 2018)</rdfs:comment>
+        <rdfs:label xml:lang="en">Central Bikol</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Central_Bikol_language</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
     <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_39317a01_5f26_483a_89c3_280087feb9fb -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_39317a01_5f26_483a_89c3_280087feb9fb">
@@ -3157,7 +3168,9 @@
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_432864fa_85dc_444c_bfb8_c45da3acfda3">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c381c713_9d11_4154_a366_a4ab550efbc6"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_e15f3dc0_a7b3_4bd3_b052_1ff8e8512952"/>
+        <rdfs:comment>&quot;Manide, also known as Camarines Norte Agta, is a divergent Philippine language spoken by a Philippine Negrito people of Camarines Norte Province in southern Luzon Island, Philippines. The municipalities of Labo, Paracale, and Jose Panganiban have the most speakers.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Manide</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Manide_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3195,7 +3208,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_45179e40_4e69_4007_a220_9b6df632072f">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c381c713_9d11_4154_a366_a4ab550efbc6"/>
+        <rdfs:comment>&quot;Inagta Rinconada (Mount Iriga Agta) is a Bikol language spoken by a semi-nomadic hunter-gatherer Agta (Negrito) people of the Philippines. It is spoken to the east of Iriga City up to the shores of Lake Buhi. The language is largely intelligible with Mount Iraya Agta on the other side of the lake.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Iriga Agta</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Mount_Iriga_Agta_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3204,6 +3219,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_463a6c63_c60f_4408_bbee_5217329cabbf">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_1ec9514c_585f_4afe_868f_3c92a38c798e"/>
+        <rdfs:comment>Is one of the provinces of Cagayan Valley Region</rdfs:comment>
         <rdfs:label xml:lang="en">Cagayan</rdfs:label>
     </owl:Class>
     
@@ -3318,7 +3334,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_4f995e9d_d1ea_443b_a877_da33c2470b39">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_10eeafcf_439a_4438_a29a_6188a9bd8f6d"/>
+        <rdfs:comment>&quot;Central Bikol, commonly called Bikol Naga, is the most-spoken language in the Bicol Region of southern Luzon, Philippines. It is spoken in the northern and western part of Camarines Sur, second congressional district of Camarines Norte, eastern part of Albay, northeastern part of Sorsogon, San Pascual town in Masbate, and southwestern part of Catanduanes. Central Bikol speakers can be found in all provinces of Bicol and it is a majority language in Camarines Sur. The standard Sprachraum form is based on the Canaman dialect.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Central Bikol</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Central_Bikol_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3509,7 +3527,9 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_5f3091eb_675d_4567_a8ef_b05f2a363df9">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fc73d6b9_06d3_445d_886a_c56f35e94734"/>
+        <rdfs:comment>&quot;Masbateño or Minasbate is a Bicol-Visayan language spoken by more than 600,000 people, primarily in the province of Masbate in the Philippines. It is very close to Capiznon, Hiligaynon/Ilonggo and Waray-Waray, all three spoken in Visayas. It is considered a Bisakol language, meaning a language intermediate between Visayan languages and Bicolano languages.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Masbateño</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Masbate%C3%B1o_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3556,7 +3576,9 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_643bcb82_b13b_46bb_909a_ca70af4de097">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c381c713_9d11_4154_a366_a4ab550efbc6"/>
+        <rdfs:comment>&quot;Rinconada Bikol or simply Rinconada, spoken in the province of Camarines Sur, Philippines, is one of several languages that compose the Inland Bikol (or Southern Bicol) group of the Bikol macrolanguages. It belongs to the Austronesian language family that also includes most Philippine languages, the Formosan languages of Taiwanese aborigines, Bahasa Indonesia, Malay, Māori, Hawaiian, and Malagasy.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Rinconada Bikol</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Rinconada_Bikol_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3962,6 +3984,7 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_8e7342b3_36b6_457f_881a_182e3185c325">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_1ec9514c_585f_4afe_868f_3c92a38c798e"/>
+        <rdfs:comment>Is one of the provinces of Cagayan Valley Region</rdfs:comment>
         <rdfs:label xml:lang="en">Batanes</rdfs:label>
     </owl:Class>
     
@@ -4169,7 +4192,10 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_a23f54ce_3334_4c76_abd8_128472bb3e2a">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c381c713_9d11_4154_a366_a4ab550efbc6"/>
+        <rdfs:comment>&quot;Albay Bikol, or simply Albayanon is a group of languages and one of the three languages that compose Inland Bikol. It is spoken in the southwestern coast of Albay and northwestern Sorsogon (Pio Duran, Jovellar). The region is bordered by the Coastal Bikol and Rinconada Bikol or Riŋkonāda speakers. The latter is the closest language of Albay Bikol and is mutually intelligible. They are both included in Inland Bikol group of languages.
+Albay Bikol is the only sub-group of the Inland Bikol group with several languages with in it. The member languages in this sub-grouping lack stressed syllables, rare, if there is, and that makes them different and unique from other Bikol languages. The said feature of Albay Bikol is comparable to French language that rarely use stressed syllables.&quot; (Wikipedia, 2017).</rdfs:comment>
         <rdfs:label xml:lang="en">Albay Bikol</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Albay_Bikol_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4219,7 +4245,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_a4f7020c_f10b_424c_a89a_e0d44704b397">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_10eeafcf_439a_4438_a29a_6188a9bd8f6d"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fc73d6b9_06d3_445d_886a_c56f35e94734"/>
+        <rdfs:comment>&quot;Bisakol (portmanteau of Bisaya and Bikol) refers to the transitional languages in the Central Philippine language family, between Visayan languages and Bikol languages. They are usually classified by linguists as Visayan languages with a great deal of Bikol influence.&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Bisakol</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Bisakol_languages</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4575,7 +4603,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c9239e2b_1ce8_49e4_b18d_c5bffc86047d">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c381c713_9d11_4154_a366_a4ab550efbc6"/>
+        <rdfs:comment>&quot;Mount Iraya Agta is a Bikol language spoken by a semi-nomadic hunter-gatherer Agta (Negrito) people of the Philippines, east of Lake Buhi in Luzon. It is mutually intelligible with Mount Iriga Agta on the other side of the lake. Lobel (2013) believes that Mount Iraya Agta may be extinct.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Iraya Agta</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Mount_Iraya_Agta_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4932,7 +4962,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_e46ead9a_4e22_4130_a9af_d0f4c9e33c6b">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c381c713_9d11_4154_a366_a4ab550efbc6"/>
+        <rdfs:comment>&quot;Inagta Partido (Isarog Agta) is a nearly extinct Bikol language spoken by a semi-nomadic hunter-gatherer Agta (Negrito) people of the Philippines. It is found on Mount Isarog east of Naga City.&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Inagta Partido</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Inagta_Partido_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4963,7 +4995,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_e8142d4b_1dad_441e_8b48_269be662a09e">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ed83cb67_072d_45b7_af6e_0ccbcf951f6e"/>
+        <rdfs:comment>&quot;Pandan Bikol, or Northern Catanduanes Bicolano, is one of the three groups of the Bikol languages. It is spoken in Pandan and northeastern portion of Catanduanes.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Pandan Bikol</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Pandan_Bikol_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -5623,6 +5657,18 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
             <rdf:Description rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_919db54e_6faf_4c00_9255_852b63c036c4"/>
             <rdf:Description rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c4a99e4f_c4b7_4705_b3c3_d4b70c9bbc49"/>
             <rdf:Description rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_d3468cee_fbdd_433b_b6b6_c997120936e1"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_38a37f96_7c9f_4b9a_b0ad_4156fc69894d"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_583d8349_34cf_4c69_b8e9_3145b35a32a0"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_5f3091eb_675d_4567_a8ef_b05f2a363df9"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_7062a852_2800_481c_9757_437a53b8e33e"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_9a4a0559_a324_4866_b784_cf7188315519"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_a4f7020c_f10b_424c_a89a_e0d44704b397"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_b0c2fbf0_c570_45c1_8e6c_de9c292567df"/>
         </owl:members>
     </rdf:Description>
     <rdf:Description>
