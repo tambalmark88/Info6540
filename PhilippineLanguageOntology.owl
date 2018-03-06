@@ -2723,7 +2723,9 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_126be8eb_5b88_42cf_ab6a_71ff2cabcd07"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_adfdc9ee_1749_4615_8385_e54c851fe3d5"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fdf51354_5c3c_4f0a_bf5f_1426eb0ec877"/>
+        <rdfs:comment>&quot;Pang-asinan was derived from the phrase &quot;Place of Salt&quot; and is used by 2 million people. Historically originated and used by the Kingdom of Luyag na Cabuloan. The Pangasinan language or Salitan Pangasinan is one of the major languages of the Philippines. It is the language spoken in the province of Pangasinan, on the west-central seaboard of the island of Luzon along the Lingayen Gulf, the northern portion of Tarlac and southwestern La Union, most of whom belong to the Pangasinan ethnic group. Pangasinan is also understood in some municipalities in Benguet, Nueva Ecija, Nueva Vizcaya, and by the Aitas or Aeta of Zambales. As of 2012, Pangasinan is one of the major languages of the Philippines that is taught and studied formally in schools and universities.&quot; (Wikipedia, 2018</rdfs:comment>
         <rdfs:label xml:lang="en">Pangalatok</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Pangasinan_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -2762,7 +2764,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_12e5c85e_0475_430c_b7de_c8f1260695db">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_126be8eb_5b88_42cf_ab6a_71ff2cabcd07"/>
+        <rdfs:comment>&quot;Karao (also spelled Karaw) is a language of northern Luzon, Philippines. It is spoken in the Karao, Ekip, and Bokod areas of western Benguet Province, and in the southwestern corner of Ifugao Province. The language is named after the barangay of Karaw in Bokod municipality, Benguet.&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Karao</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Karao_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3073,7 +3077,9 @@
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_354005c6_d401_4d69_9406_7549214c2675">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_126be8eb_5b88_42cf_ab6a_71ff2cabcd07"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_22c2af9f_e198_440f_96ca_53ac95adcdf6"/>
+        <rdfs:comment>&quot;Kalanguya, also called Kallahan, is a dialect cluster of northern Luzon, Philippines.Keley-i Kallahan (also called Antipolo Ifugao, Hanalulo, Keley-i, Keley-i Kalanguya, Keleyqiq Ifugao) is spoken in Kiangan and Aritao municipalities of Ifugao Province. Dialects are Bayninan and Ya-Tuka (Ethnologue).Kalanguya (also called Ikalahan, Kalangoya, Kalangoya-Ikalahan, Kallahan, Kayapa) is spoken in (Ethnologue).&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Kallahan</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Kallahan_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3295,7 +3301,7 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_90a71ce4_a913_4085_8dd9_aac5da3a53ad"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f56ee4db_2b12_44bd_b049_51bb3f2598ab"/>
         <owl:disjointWith rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_8001b8b6_ae58_48e4_8ac5_e1416f44766d"/>
-        <rdfs:comment>Is derived from the phrase &quot;Place of Salt&quot; and is used by 2 million people. Historically originated and used by the Kingdom of Luyag na Cabuloan.</rdfs:comment>
+        <rdfs:comment>&quot;Pang-asinan was derived from the phrase &quot;Place of Salt&quot; and is used by 2 million people. Historically originated and used by the Kingdom of Luyag na Cabuloan. The Pangasinan language or Salitan Pangasinan is one of the major languages of the Philippines. It is the language spoken in the province of Pangasinan, on the west-central seaboard of the island of Luzon along the Lingayen Gulf, the northern portion of Tarlac and southwestern La Union, most of whom belong to the Pangasinan ethnic group. Pangasinan is also understood in some municipalities in Benguet, Nueva Ecija, Nueva Vizcaya, and by the Aitas or Aeta of Zambales. As of 2012, Pangasinan is one of the major languages of the Philippines that is taught and studied formally in schools and universities.&quot; (Wikipedia, 2018</rdfs:comment>
         <rdfs:comment>Is one of the provinces of Ilocos Region</rdfs:comment>
         <rdfs:label xml:lang="en">Pangasinan</rdfs:label>
         <rdfs:seeAlso>https://en.wikipedia.org/wiki/Pangasinan</rdfs:seeAlso>
@@ -3668,7 +3674,9 @@ This is evident in the usages in spelling e.g. &quot;color&quot; instead of UK E
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_694c1c3d_5765_4631_9879_4efad8bb6e92">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_d39019ec_f445_43b9_85f5_e8b53922d663"/>
+        <rdfs:comment>&quot;Nagtipunan Agta is a Northeastern Luzon language. It is one of the Aeta languages. The language was discovered by Jason Lobel and Laura Robinson in Nagtipunan, Quirino (Lobel 2013:88). Nagtipunan Agta is most closely related to Casiguran Dumagat Agta.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Nagtipunan Agta</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Nagtipunan_Agta</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3756,7 +3764,10 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_75dde517_9d76_46ef_bea9_a46b63a29e77">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_631d013c_1172_403d_8f25_a2ca25b98edd"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_e15f3dc0_a7b3_4bd3_b052_1ff8e8512952"/>
+        <rdfs:comment>&quot;Southern Alta (also known as Kabuluen, Kabulowan or Kabuluwan, Kabuluwen, Ita, Beluga, Pugot), is a distinctive Aeta language of the mountains of northern Philippines. This article will discuss Southern Alta&apos;s location, vocabulary, similarities and differences shared with other languages of the Philippines. Southern Alta is one of many endangered languages that risks being lost if it is not passed on by current speakers. Most speakers of Southern Alta also speak Filipino.&quot; (Wikipedia, 2017)</rdfs:comment>
+        <rdfs:comment>&quot;Southern Alta is not particularly close to Northern Alta or to other languages of Luzon. Both Northern and Southern Alta have a significant proportion of vocabulary that is unique to each other, however, they are also very different from the other. Many Southern Alta also interact primarily with Tagalog speakers, sharing similarities between both languages.&quot; (Wiki[deia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Southern Alta</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Southern_Alta_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3945,6 +3956,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_e15f3dc0_a7b3_4bd3_b052_1ff8e8512952"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f80bb7f2_292a_41ca_ac50_ea35febbd518"/>
         <rdfs:label xml:lang="en">Tagalog</rdfs:label>
+        <rdfs:seeAlso>25% of the Philippine population use this language
+&quot;Tagalog (/təˈɡɑːlɒɡ/; Tagalog pronunciation: [tɐˈɡaːloɡ]) is an Austronesian language spoken as a first language by a quarter of the population of the Philippines and as a second language by the majority. Its standardized form, officially named Filipino, is the national language of the Philippines, and is one of two official languages alongside English.&quot; (Wikipedia, 2018)</rdfs:seeAlso>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Tagalog_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3991,7 +4005,10 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_8757fa0e_e74b_458a_bcb6_5eb4c41a369d">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_e15f3dc0_a7b3_4bd3_b052_1ff8e8512952"/>
+        <rdfs:comment>&quot;It is the proto-Tagalog language within Katagalugan region in island of Luzon. The local term for Sinauna language is Mangnah or Mangnih. It is the type of Dumagat Language where its speakers were originally residing in the interior part of the mountain ranges of Sierra Madre. The Umiray Dumaget or locally called pa baybay is the type of Dumagat tribes who prefer to have settlements near the Seashores or baybaying dagat. General Nakar has more proficient speakers. The speakers call themselves &quot;Dumagat&quot; or &quot;Remontado Dumagat,&quot; although they better known in the academic literature as &quot;Sinauna.&quot; Remontado Dumagat is not to be confused with the Umiray Dumaget or Casiguran Dumagat.&quot; (Wikipedia, 2018)</rdfs:comment>
+        <rdfs:comment>&quot;Remontado Agta, also known as Sinauna, Kabalat, Remontado Dumagat, and Hatang Kayey, is a Malayo-Polynesian language spoken in Tanay, Rizal, General Nakar, Quezon (including in Paimahuan, Limoutan[3]), Rodriguez, Rizal and Antipolo City, in the Philippines. It is one of the Aeta languages. The Remontado Dumagat were traditionally found in the mountains around the boundary between Sampaloc district in Tanay, Rizal, and General Nakar, Quezon (Lobel 2013:72-73).&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Remontado Agta</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Remontado_Agta_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4529,7 +4546,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_b8eac7ea_ea20_41eb_94e8_b6604f41a0e0">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_e15f3dc0_a7b3_4bd3_b052_1ff8e8512952"/>
+        <rdfs:comment>&quot;Inagta Alabat (Alabat Island Agta) is a nearly extinct Aeta language spoken in central Alabat Island, Philippines. Inagta Lopez is a dialect spoken in Guinayangan (Lobel 2013). It forms a subgroup with Manide (Lobel 2010).&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Inagta Alabat</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Inagta_Alabat_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -5328,7 +5347,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fbceef7a_2da9_4381_a142_5891beb904cd">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_d39019ec_f445_43b9_85f5_e8b53922d663"/>
+        <rdfs:comment>&quot;Arta is a nearly extinct Negrito language of the northern Philippines. Lawrence Reid&apos;s 1990 fieldwork revealed only 12 speakers in Villa Santiago, Aglipay, Quirino Province,[4] and in 1992 it was spoken by only three families. It is not closely related to other languages. There are still small groups of Arta speakers in Maddela and Nagtipunan towns of Quirino Province (Lobel 2013:88). Arta is currently being documented by Yukinori Kimoto.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Arta</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Arta_language</rdfs:seeAlso>
     </owl:Class>
     
 
