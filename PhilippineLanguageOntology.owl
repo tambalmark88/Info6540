@@ -2802,7 +2802,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_1d60c4d5_f61b_44fa_8a5b_72250c077917">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f289125b_ce86_4c10_a465_4b4bf40f6622"/>
+        <rdfs:comment>&quot;The Gaddang language (also Gaddang or Cagayan) is spoken by up to 30,000 speakers (the Gaddang people) in the Philippines, particularly along the Magat and upper Cagayan rivers in the Region II provinces of Nueva Vizcaya and Isabela. Most Gaddang speakers also speak Ilocano, the lingua franca of Northern Luzon, as well as Tagalog and English. Gaddang is associated with the &quot;Christianized Gaddang&quot; people and is closely related to the highland (non-Christian in local literature) tongues of Ga&apos;dang with 6,000 speakers, Cagayan Agta with less than 1,000 and Atta with 2,000 (although the Negrito Aeta and Atta are genetically unrelated to the Austronesian Gaddang), and more distantly to Ibanag, Itawis, Yogad, Isneg and Malaweg. The Gaddang tongue has been vanishing from daily and public life over the past half-century. Public and church-sponsored education was historically conducted in Spanish or English, and now in Filipino/Tagalog.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Ga&apos;Dang</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Gaddang_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3011,7 +3013,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_33d482e8_0c25_4338_b3f5_0c2f910edf25">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f289125b_ce86_4c10_a465_4b4bf40f6622"/>
+        <rdfs:comment>&quot;Paranan, also called Palanan, is a Philippine language belonging to the Northern Luzon languages. It is spoken in the northeastern coastal areas of Isabela province located in Luzon in the Philippines. Lexically, it is extremely close to Pahanan Agta. However, this is due to convergence to that language; the sources of the two languages are different, and this is reflected in their grammar.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Paranan</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Paranan_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3203,7 +3207,9 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_126be8eb_5b88_42cf_ab6a_71ff2cabcd07"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_d39019ec_f445_43b9_85f5_e8b53922d663"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f289125b_ce86_4c10_a465_4b4bf40f6622"/>
+        <rdfs:comment>&quot;Ilongot is a language of the indigenous Ilongot people of northern Luzon, Philippines.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Ilongot</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Ilongot_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3886,7 +3892,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_81bcd4bb_d0c1_4c3c_b50f_36298f49e302">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_126be8eb_5b88_42cf_ab6a_71ff2cabcd07"/>
+        <rdfs:comment>&quot;Isinai (also spelled Isinay) is a Northern Luzon language primarily spoken in Nueva Vizcaya province in the northern Philippines. By linguistic classification, it is more divergent from other South-Central Cordilleran languages, such as Kalinga, Itneg or Ifugao and Kankanaey. According to the Ethnologue, Isinai is spoken in Bambang, Dupax del Sur, and Aritao municipalities, alongside Ilocano.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Isinai</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Isinai_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4025,7 +4033,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_8c8cf103_3c49_40d4_bedc_b216db44e7ef">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f289125b_ce86_4c10_a465_4b4bf40f6622"/>
+        <rdfs:comment>&quot;Yogad is an Austronesian language spoken primarily in Echague, Isabela and other nearby towns in the province in northern Philippines.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Yogad</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Yogad_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4194,10 +4204,8 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_9e9bea40_be1f_4985_b994_a55960d32291">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_463a6c63_c60f_4408_bbee_5217329cabbf"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f289125b_ce86_4c10_a465_4b4bf40f6622"/>
-        <rdfs:comment></rdfs:comment>
         <rdfs:comment>&quot;Dinapigue Agta is a Northeastern Luzon language. It is one of the Aeta languages.&quot; )(Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Dinapigue Agta</rdfs:label>
-        <rdfs:seeAlso></rdfs:seeAlso>
         <rdfs:seeAlso>https://en.wikipedia.org/wiki/Dinapigue_Agta</rdfs:seeAlso>
     </owl:Class>
     
