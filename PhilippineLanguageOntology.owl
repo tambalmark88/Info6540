@@ -2843,7 +2843,9 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_043e3eaa_a374_447e_bebb_d674370343af"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c202445d_f639_429d_8b76_25aa0eed0494"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f19ee921_6ed1_4b7a_b293_c67322e21088"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Mansaka is an Austronesian language of Mindanao in the Philippines. It may be intelligible with Mandaya. Mansaka is spoken in western Baganga, Davao Oriental, and into central-west Compostela Valley Province, continuing south back into Davao Oriental Province as far south as Pujada Bay.&quot; (Wikipedia,2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Mansaka</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Mansaka_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4198,7 +4200,11 @@ Makagaw (Dupaninan), Cagayan.&quot; (Wikipedia, 2017)</rdfs:comment>
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_94dc9036_6605_400a_a76b_acf8989553ee">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_5f3059e9_2f4b_4593_87b4_0317c6374958"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f19ee921_6ed1_4b7a_b293_c67322e21088"/>
+        <rdfs:comment>&quot;Mandaya is an Austronesian language of Mindanao in the Philippines. It may be intelligible with Mansaka.&quot; (Wikipedia, 2017)</rdfs:comment>
+        <rdfs:comment>Geographical distribution
+Ethnologue reports that Mandaya is spoken in Manay, Caraga, Baganga, and Cateel municipalities of Davao Oriental Province, as well as in Davao del Norte Province.</rdfs:comment>
         <rdfs:label xml:lang="en">Mandaya</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Mandaya_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4599,7 +4605,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_5f3059e9_2f4b_4593_87b4_0317c6374958"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c202445d_f639_429d_8b76_25aa0eed0494"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f19ee921_6ed1_4b7a_b293_c67322e21088"/>
+        <rdfs:comment>&quot;Davaoeño (Davawenyo/Dabawenyo) is the principal language of the Davaoeño people in the Davao Region of Mindanao in the Philippines. According to Ethnologue, it is a &quot;synthesis&quot; of Tagalog, Cebuano, and other Visayan languages.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Davaoeño</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Davaoe%C3%B1o_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -5179,7 +5187,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_5f3059e9_2f4b_4593_87b4_0317c6374958"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c202445d_f639_429d_8b76_25aa0eed0494"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f19ee921_6ed1_4b7a_b293_c67322e21088"/>
+        <rdfs:comment>&quot;Kalagan is an Austronesian dialect cluster of the Davao Region of Mindanao in the Philippines. It is also spoken in a few parts of Caraga, still in Mindanao.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Kalagan</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Kalagan_language</rdfs:seeAlso>
     </owl:Class>
     
 
