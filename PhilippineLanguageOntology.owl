@@ -2737,6 +2737,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_10eeafcf_439a_4438_a29a_6188a9bd8f6d">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c19d2f90_5dcf_42e6_916d_f4ee894fcce7"/>
         <rdfs:label xml:lang="en">Sorsogon</rdfs:label>
+        <rdfs:seeAlso>Is one of the provinces of Bicol Region.</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3479,7 +3480,9 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_5cb5c5b5_38d2_45fe_87c1_3f79fb97963e">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c2b8f24a_58f7_42c9_9b2b_7a975f609e8e"/>
-        <rdfs:label xml:lang="en">Manade</rdfs:label>
+        <rdfs:comment>&quot;Manide, also known as Camarines Norte Agta, is a divergent Philippine language spoken by a Philippine Negrito people of Camarines Norte Province in southern Luzon Island, Philippines. The municipalities of Labo, Paracale, and Jose Panganiban have the most speakers.&quot; (Wikipedia, 2017)</rdfs:comment>
+        <rdfs:label xml:lang="en">Manide</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Manide_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3651,8 +3654,11 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_90a71ce4_a913_4085_8dd9_aac5da3a53ad"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c2b8f24a_58f7_42c9_9b2b_7a975f609e8e"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fc73d6b9_06d3_445d_886a_c56f35e94734"/>
+        <rdfs:comment>&quot;Albay Bikol, or simply Albayanon is a group of languages and one of the three languages that compose Inland Bikol. It is spoken in the southwestern coast of Albay and northwestern Sorsogon (Pio Duran, Jovellar). The region is bordered by the Coastal Bikol and Rinconada Bikol or Riŋkonāda speakers. The latter is the closest language of Albay Bikol and is mutually intelligible. They are both included in Inland Bikol group of languages.
+Albay Bikol is the only sub-group of the Inland Bikol group with several languages with in it. The member languages in this sub-grouping lack stressed syllables, rare, if there is, and that makes them different and unique from other Bikol languages. The said feature of Albay Bikol is comparable to French language that rarely use stressed syllables.&quot; (Wikipedia, 2017).</rdfs:comment>
         <rdfs:comment>It is a language used in Bicolandia -- it is greatly influenced by Spanish language.</rdfs:comment>
-        <rdfs:label xml:lang="en">Bikol</rdfs:label>
+        <rdfs:label xml:lang="en">Albay Bikol</rdfs:label>
+        <rdfs:seeAlso>https://en.wikipedia.org/wiki/Albay_Bikol_language</rdfs:seeAlso>
         <rdfs:seeAlso>https://en.wikivoyage.org/wiki/Bikol_phrasebook</rdfs:seeAlso>
     </owl:Class>
     
@@ -4163,7 +4169,7 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_a23f54ce_3334_4c76_abd8_128472bb3e2a">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c381c713_9d11_4154_a366_a4ab550efbc6"/>
-        <rdfs:label xml:lang="en">Bikol Albay</rdfs:label>
+        <rdfs:label xml:lang="en">Albay Bikol</rdfs:label>
     </owl:Class>
     
 
@@ -4510,6 +4516,7 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c381c713_9d11_4154_a366_a4ab550efbc6">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c19d2f90_5dcf_42e6_916d_f4ee894fcce7"/>
         <rdfs:label xml:lang="en">Camarines Sur</rdfs:label>
+        <rdfs:seeAlso>Is one of the provinces of Bicol Region.</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4801,7 +4808,8 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_d9859dde_76d0_4c70_8ec7_7580730af918">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_90a71ce4_a913_4085_8dd9_aac5da3a53ad"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_be2a9f1c_8158_468b_bc34_0dd7ade9f0dd"/>
-        <rdfs:comment>is widely spoken in the National Capital Region and surrounding provinces but with few distinct accents and intonaions. 25% of the Philippine population use this language.</rdfs:comment>
+        <rdfs:comment>25% of the Philippine population use this language
+&quot;Tagalog (/təˈɡɑːlɒɡ/; Tagalog pronunciation: [tɐˈɡaːloɡ]) is an Austronesian language spoken as a first language by a quarter of the population of the Philippines and as a second language by the majority. Its standardized form, officially named Filipino, is the national language of the Philippines, and is one of two official languages alongside English.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Tagalog</rdfs:label>
         <rdfs:seeAlso>https://en.wikipedia.org/wiki/Tagalog_language</rdfs:seeAlso>
     </owl:Class>
@@ -5006,6 +5014,7 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ed83cb67_072d_45b7_af6e_0ccbcf951f6e">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c19d2f90_5dcf_42e6_916d_f4ee894fcce7"/>
         <rdfs:label xml:lang="en">Catanduanes</rdfs:label>
+        <rdfs:seeAlso>Is one of the island provinces of Bicol Region.</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -5191,6 +5200,7 @@ This is evident in the usages in spelling e.g. color instead of UK English colou
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fc73d6b9_06d3_445d_886a_c56f35e94734">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c19d2f90_5dcf_42e6_916d_f4ee894fcce7"/>
         <rdfs:label xml:lang="en">Masbate</rdfs:label>
+        <rdfs:seeAlso>Is one of the island provinces of Bicol Region.</rdfs:seeAlso>
     </owl:Class>
     
 
