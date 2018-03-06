@@ -2572,7 +2572,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_01559d8a_8ec7_4c0a_bf7b_cd3ae4affff7">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_9d98e2bf_ce5d_49ad_9e74_fe39f2faed9b"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;The Agutaynen language is spoken on Agutaya Island in the province of Palawan in the Philippines.&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Agutaynen Tagbanwa</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Agutaynen_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -2592,7 +2594,10 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_028b165c_d725_4f26_8ee7_a2f4bfd837ae">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_9d98e2bf_ce5d_49ad_9e74_fe39f2faed9b"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Calamian Tagbanwa is spoken on Palawan Island in the Philippines. It is not mutually intelligible with the other languages of the Tagbanwa people.&quot; (Wikipedia, 2016)</rdfs:comment>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Not to be confused with the Central Tagbanwa.</rdfs:comment>
         <rdfs:label xml:lang="en">Calamian Tagbanwa</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Calamian_Tagbanwa_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -2785,7 +2790,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_156b368d_7d9f_4e65_9653_48677bd5a441">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_9d98e2bf_ce5d_49ad_9e74_fe39f2faed9b"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;The Banggi languages (also Bangay) are a pair of languages, Bonggi and Molbog, spoken in Sabah on Borneo, on Palawan in the Philippines, and on the islands in between.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Banggi</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Banggi_languages</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3190,7 +3197,9 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_3d371c28_c5be_4289_b5d6_6caccdaf6d6f">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_5034eb0a_9c1e_4bc3_b042_618d6f26dafd"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Ratagnon (also translated as Latagnon or Datagnon, and Aradigi) is a regional language spoken by the Ratagnon people, an indigenous group from Occidental Mindoro. It is a part of the Visayan language family and is closely related to other Philippine languages. Its speakers are shifting to Tagalog, and it is nearly extinct.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Ratagnon</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Ratagnon_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3255,7 +3264,10 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_44454112_c354_404e_8f00_3a74597cc613">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_9d98e2bf_ce5d_49ad_9e74_fe39f2faed9b"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;The Calamian languages (also spelled Kalamian) are a small cluster of languages spoken in the Philippines: Calamian Tagbanwa and Agutaynen.
+These are among the few languages of the Philippines which continue to be written in indigenous scripts, though mostly for poetry.&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Calamian</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Calamian_languages</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3580,7 +3592,9 @@ This is evident in the usages in spelling e.g. &quot;color&quot; instead of UK E
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_902af4e9_dced_4285_9ee1_2382d89cb8c4"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ae224c17_9a93_4abe_b639_fcea8f6fd0ae"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c9ccae1f_b9c0_4fa4_ad86_69234ba4f894"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;The Karay-a language, or Kinaray-a (Karay-a + the infix -in-) (ISO: krj), is an Austronesian regional language spoken by the Karay-a people, mainly in Antique in the Philippines as well as Iloilo and other provinces on the island of Panay. It is one of the Visayan languages, mainly along with Aklanon/Malaynon, Capiznon and Hiligaynon.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Karay-a</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Karay-a_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3600,7 +3614,12 @@ This is evident in the usages in spelling e.g. &quot;color&quot; instead of UK E
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_5ce06ff9_ff1f_4f06_af55_ec68103ceee2">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_925343d5_d1f0_4c96_9284_06b0076faa7e"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Onhan is a regional Western Visayan language spoken, along with the Romblomanon and Asi languages, in the province of Romblon, Philippines. The language is also known as Inunhan and Loocnon.&quot; (Wikipedia, 2018)</rdfs:comment>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Specifically, Onhan is spoken on the following islands within Romblon: Tablas: the municipalities of San Andres, Santa Maria, Alcantara, Ferrol, Looc, and Santa Fe. Carabao: the sole municipality of San Jose.
+As a variant of the Kinaray-a language, some speakers are found on the island of Boracay in Aklan province as well as parts of the island of Panay, specifically in the following municipalities: Malay, Nabas and Buruanga. In the provinces of Oriental and Occidental Mindoro, migrant Onhan speakers from Tablas Island brought the language to the following municipalities: San Jose, Bulalacao, Mansalay, Roxas, and some parts of Bongabong. As such, it is very much related to Kinaray-a and Kuyonon.&quot; (Wikipedia, 2018)</rdfs:comment>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;The Onhan language has three variants- those speaking in the municipalities of Santa Maria and Alcantara uses /l/ instead of /r/. Example: &quot;kararaw&quot; is &quot;kalalaw&quot;, and other speakers change /r/ or /l/ for /d/ as in &quot;run&quot; or &quot;lun&quot; to &quot;dun&quot;.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Onhan</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Onhan_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3852,7 +3871,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_05cdcef2_d80b_4a12_88c5_4ea9095760cb"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_754686cc_39d2_4f9e_bd09_dd59196a6c82"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c9ccae1f_b9c0_4fa4_ad86_69234ba4f894"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Capiznon (Spanish: capiceño) is an Austronesian regional language spoken in Western Visayas in the Philippines. Capiznon is concentrated in the province of Capiz in the northeast of Panay Island. It is a member of the Visayan language family and the people are part of the wider Visayan ethnolinguistic group, who constitute the largest Filipino ethnolinguistic group. The language is often confused with Hiligaynon due to dialectological comprehension similarities and as high as 91% mutual intelligibility, but it has its certain unique accent and vocabulary that integrates Aklanon and Waray lexicon. Despite its distinct corruption of Hiligaynon lateral approximants, a prevalent feature among rural farmers, ethnic convergence and cosmopolitanism has led to a shift back to the purely Hiligaynon prosodic form of slower tonality and softer and longer vowels most particularly among the younger generations.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Capiznon</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Capiznon_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3992,7 +4013,10 @@ Reid (1994) reports the following locations for Umiray Dumaget (Central Agta). U
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_82c4e1da_13e0_4b1b_a06c_f7fc8a4692e0">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_5034eb0a_9c1e_4bc3_b042_618d6f26dafd"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f80bb7f2_292a_41ca_ac50_ea35febbd518"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;The Tadyawan language is a language spoken by Mangyans in the southern Lake Naujan in Oriental Mindoro, Philippines. Tweddell (1970) lists 4 dialects - Nauhan, East Aglubang, West Aglubang, and  Pola. Nauhan and East Aglubang are close to each other. The West Aglubang is spoken farthest out and has strong Alangan influence. Barbian (1977) lists the following locations - Barrio Talapaan, Socorro, Oriental Mindoro
+Happy Valley, Socorro,; Oriental Mindoro - Pahilaan, Calatagan, Pola, Oriental Mindoro&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Tadyawan</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Tadyawan_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4060,7 +4084,9 @@ Reid (1994) reports the following locations for Umiray Dumaget (Central Agta). U
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_8577e72e_b906_4095_b6a9_27996a00c348">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_05cdcef2_d80b_4a12_88c5_4ea9095760cb"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_754686cc_39d2_4f9e_bd09_dd59196a6c82"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Aklanon (Akeanon), also known as Aklan, is a regional Visayan language spoken in the province of Aklan on the island of Panay in the Philippines. Its unique feature among other Visayan languages is the close-mid back unrounded vowel [ɤ] occurring as part of diphthongs and traditionally written with the letter E such as in the name Akeanon (Aklanon). However, this phoneme is also present in sister Philippine languages, namely Itbayat, Isneg, Manobo, Samal and Sagada. The Malaynon dialect is 93% lexically similar to Aklanon and retained the &quot;l&quot; sounds, which elsewhere are often pronounced as &quot;r&quot;. Ibayjanon (Ibajaynon) dialect has shortened versions of Aklanon words.&quot; (WIkipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Aklanon</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Aklanon_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4264,7 +4290,9 @@ Ethnologue reports that Mandaya is spoken in Manay, Caraga, Baganga, and Cateel 
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_950cc22f_99a6_47a4_bdd5_9185b1568e53">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_9d98e2bf_ce5d_49ad_9e74_fe39f2faed9b"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Batak is a Negrito language spoken on Palawan Island in the Philippines. It is sometimes disambiguated from the Batak languages as Palawan Batak. It is spoken in the communities of Babuyan, Maoyon, Tanabag, Langogan, Tagnipa, Caramay, and Buayan (Lobel 2013). Surrounding languages including Southern Tagbanwa, Central Tagbanwa, Kuyonon, and Agutaynen. (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Palawan Batak</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Palawan_Batak_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4433,7 +4461,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_a4bea2d9_876e_406e_862c_d040f899bf47">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_925343d5_d1f0_4c96_9284_06b0076faa7e"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;The Asi language[4] is a regional Visayan language spoken, along with Romblomanon and Onhan, in the province of Romblon, Philippines. Asi originated in the island of Banton, Romblon and spread to the neighboring islands of Sibale, Simara, and the towns of Odiongan and Calatrava on Tablas Island. The Asi spoken in Odiongan is called Odionganon, Calatravanhon in Calatrava, Sibalenhon in Concepcion, Simaranhon in Corcuera, and Bantoanon in Banton.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Asi</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Asi_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4446,7 +4476,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_902af4e9_dced_4285_9ee1_2382d89cb8c4"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ae224c17_9a93_4abe_b639_fcea8f6fd0ae"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c9ccae1f_b9c0_4fa4_ad86_69234ba4f894"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Ati (Inati) is an Austronesian language of the island of Panay in the Philippines. The variety spoken in northern Panay is also called Sogodnin (Pennoyer, 1987). The Ati people also speak Kinaray-a and Hiligaynon. Pennoyer (1987) and Reid (2013) consider Inati to be an isolate with the Philippine languages. It differs markedly from the Visayan languages and has many features not found in the Central Philippine languages.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Ati</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Ati_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4501,7 +4533,10 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_a9d2d3bd_ce3d_470b_a378_da686ae92096">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_9d98e2bf_ce5d_49ad_9e74_fe39f2faed9b"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Cuyonon is a regional Visayan language spoken on the coast of Palawan, and the Cuyo Islands in the Philippines.[3] Cuyonon had been the lingua franca (language used for communication) of the province of Palawan until recently when migration flow from Southern Tagalog region rapidly increased. 43% of the total population of Palawan during the late 1980s spoke and used Cuyonon as a language. Later studies showed a significant decrease in the number of speakers due to an increase of Tagalog-speaking immigrants from Luzon.&quot; (Wikipedia, 2018)</rdfs:comment>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;The Cuyonon language is classified by the Summer Institute of Linguistics as belonging to the Central Philippine, Western Visayan, Kuyan subgroup. The largest number of speakers lives in the Cuyo Group of Islands, which is located between Northern Palawan and Panay Island.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Cuyunon</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Cuyonon_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4712,7 +4747,11 @@ Barbian (1977) lists the following locations - Casague, Santa Cruz, Occidental M
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_bcfc5f2b_516c_43bd_a7e1_f84d2d7b550e">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_925343d5_d1f0_4c96_9284_06b0076faa7e"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Romblomanon is an Austronesian regional language spoken, along with Asi and Onhan, in the province of Romblon in the Philippines. The language is also called Ini, Tiyad Ini, Basi, Niromblon, and Sibuyanon. It is a part of the Visayan language family and is closely related to other Philippine languages.&quot; (Wikipedia, 2017)</rdfs:comment>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Specifically, it is spoken in the following islands on Romblon: the sole municipality of Romblon. Sibuyan: all its municipalities, Cajidiocan, Magdiwang, and San Fernando. Tablas: the municipality of San Agustin.
+Oriental Mindoro: migrant Romblomanon speakers from Carmen in Tablas brought the language particularly to the municipality of Bansud and also migrant Romblomanon speakers from Tablas, Romblon and Sibuyan islands to the following municipalities of Mansalay, Bulalacao and parts of Bongabong and Roxas respectively.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Romblonanon</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Romblomanon_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4822,7 +4861,9 @@ Lebak municipality, northwestern Sultan Kudarat Province.&quot; (Wikipedia, 2017
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c58f598f_4c32_4bbb_b085_e6865335a1a7">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_9d98e2bf_ce5d_49ad_9e74_fe39f2faed9b"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Molbog is an Austronesian language spoken in the Philippines and Sabah, Malaysia.&quot; (Wikipedia, 2015)</rdfs:comment>
         <rdfs:label xml:lang="en">Molbog</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Molbog_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4930,7 +4971,9 @@ Lebak municipality, northwestern Sultan Kudarat Province.&quot; (Wikipedia, 2017
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ccf48c40_8ba6_466a_84a6_2a7867536e9f">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_9d98e2bf_ce5d_49ad_9e74_fe39f2faed9b"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;The Palawano languages are spoken on the province of Palawan in the Philippines. There are three related, but not mutually intelligible, languages, each with a number of dialects, which called themselves &quot;Palawano&quot; (Spanish, from the endonym Palawan). The three Palawano languages share the island with several other languages which are not part of the Palawan language cluster, though they share a fair amount of vocabulary. These languages are the Kalamian languages and the Banggi language Molbog.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Palawano</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Palawano_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4939,7 +4982,12 @@ Lebak municipality, northwestern Sultan Kudarat Province.&quot; (Wikipedia, 2017
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ccf56153_2d2b_42bf_9983_42b44ba9f7c3">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_9d98e2bf_ce5d_49ad_9e74_fe39f2faed9b"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;The Kagayanen language is spoken in the province of Palawan in the Philippines. Kagayanen is spoken in the following areas (Ethnologue).
+Palawan Province: Cagayancillo Island between Negros and Palawan
+Palawan coastal communities; southern Palawan: Balabac Island
+northern Palawan: Busuanga and Coron; other areas around the Philippines: Iloilo Province; Silay, Negros; Manila; Quezon and Rizal areas.&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Kagayanen</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Kagayanen_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -5172,7 +5220,9 @@ Lebak municipality, northwestern Sultan Kudarat Province.&quot; (Wikipedia, 2017
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_de8d9575_18ba_46dc_a01c_dee86b8af7c8">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_05cdcef2_d80b_4a12_88c5_4ea9095760cb"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c9ccae1f_b9c0_4fa4_ad86_69234ba4f894"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Sulod is Central Philippine language of Panay in the Philippines. It is closely related to the Karay-a language and is locally known to its speakers as Ligbok. Sulod is spoken in the clustered sitios of Buri, Maranat, Siya, and Takayan along the banks of the Panay River, between Mt. Kudkuran and Mt. Baloy in central Panay (Jocano 1968).&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">Sulod</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Sulod_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -5192,7 +5242,9 @@ Lebak municipality, northwestern Sultan Kudarat Province.&quot; (Wikipedia, 2017
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_de9a4539_032d_42d6_ad3d_42e8af34a295">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ae224c17_9a93_4abe_b639_fcea8f6fd0ae"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">:&quot;Caluyanon is a regional Western Visayan language spoken in the Caluya Islands in Antique in the Philippines. Most of its speakers use either Kinaray-a or Hiligaynon as their second language.&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Caluyanon</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Caluyanon_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -5224,7 +5276,9 @@ Lebak municipality, northwestern Sultan Kudarat Province.&quot; (Wikipedia, 2017
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_dfbcc061_b262_44f1_b703_d296d30d1942">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_5034eb0a_9c1e_4bc3_b042_618d6f26dafd"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f80bb7f2_292a_41ca_ac50_ea35febbd518"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;The Iraya language is a language spoken by Mangyans in the province of Mindoro in the Philippines. Ethnologue reports that Iraya is spoken in the following municipalities of northern Mindoro island. Mindoro Occidental Province: Paluan, Abra de Ilog, northern Mamburao, and Santa Cruz municipalities. Mindoro Oriental Province: Puerto Galera and San Teodoro municipalities. Barbian (1977) also lists the location of Calamintao, on the northeastern boundary of Santa Cruz municipality (7 km up the Pagbahan River from the provincial highway).&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Iraya</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Iraya_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -5457,7 +5511,10 @@ Lebak municipality, northwestern Sultan Kudarat Province.&quot; (Wikipedia, 2017
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f344adb2_f494_4bb9_842f_81e7e5841c07">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_9d98e2bf_ce5d_49ad_9e74_fe39f2faed9b"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Aborlan Tagbanwa is spoken on Palawan Island in the Philippines. It is not mutually intelligible with the other languages of the Tagbanwa people.&quot; (Wikipedia, 2017)</rdfs:comment>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Do not to be confused with Central Tagbanwa language or Calamian Tagbanwa language.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Aborlan Tagbanwa</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Aborlan_Tagbanwa_language</rdfs:seeAlso>
     </owl:Class>
     
 
