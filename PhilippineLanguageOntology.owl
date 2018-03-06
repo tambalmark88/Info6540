@@ -2896,7 +2896,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_1ec9514c_585f_4afe_868f_3c92a38c798e">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
         <rdfs:comment>&quot;Cagayan Valley (Ilokano: Tanap ti Cagayan; Ibanag: Tana&apos; na Cagayan; Itawis: Tanap yo Cagayan; Filipino: Lambak ng Cagayan) (designated as Region II) is an administrative region in the Philippines located in the northeastern portion of Luzon. It is composed of five provinces: Batanes, Cagayan, Isabela, Nueva Vizcaya, and Quirino. The region has four cities: Cauayan, Ilagan, Santiago, and Tuguegarao. Most of the region lies in a large valley in northeastern Luzon, between the Cordilleras and the Sierra Madre mountain ranges.&quot; (Wikipedia, 2018)</rdfs:comment>
-        <rdfs:label xml:lang="en">Cagayan Valley (Region II)</rdfs:label>
+        <rdfs:label xml:lang="en">CagayanValleyorRegion II</rdfs:label>
         <rdfs:seeAlso>https://en.wikipedia.org/wiki/Cagayan_Valley</rdfs:seeAlso>
     </owl:Class>
     
@@ -4256,7 +4256,7 @@ Unique among other Danao languages, Maranaoan is spoken with a distinct downstep
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_90a71ce4_a913_4085_8dd9_aac5da3a53ad">
         <rdfs:comment>The Philippine major languages are distributed in the three different major islands such as Tagalog, Pangasinan or Pangalatuk, Kapampangan, Bikol are spoken in LUzon Island, Cebuano and Hiligaynon are generally spoken in the two major islands in Central and Southern Philippines, which are VIsayas and MIndanao.</rdfs:comment>
-        <rdfs:label xml:lang="en">Philippine 8 Major Languages</rdfs:label>
+        <rdfs:label xml:lang="en">Philippine_8_Major_Languages</rdfs:label>
         <rdfs:seeAlso>http://ncca.gov.ph/subcommissions/subcommission-on-cultural-disseminationscd/language-and-translation/development-of-filipino-the-national-language-of-the-philippines/</rdfs:seeAlso>
     </owl:Class>
     
@@ -4823,7 +4823,7 @@ Oriental Mindoro: migrant Romblomanon speakers from Carmen in Tablas brought the
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c19d2f90_5dcf_42e6_916d_f4ee894fcce7">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
         <rdfs:comment>&quot;The Bicol Region, also known simply as Bicol, (Central Bicolano: Rehiyon nin Bikol/Kabikolan; Rinconada Bicol: Rehiyon ka Bikol; Filipino: Kabikulan; Spanish: Bicolandia) is a region of the Philippines, designated as Region V. Bicol comprises six provinces, four on the Bicol Peninsula mainland (the southeastern end of Luzon) – Albay, Camarines Norte, Camarines Sur, and Sorsogon – and the offshore island provinces of Catanduanes and Masbate.&quot; (Wikipedia, 2018)</rdfs:comment>
-        <rdfs:label xml:lang="en">Bicol Region (Region V)</rdfs:label>
+        <rdfs:label xml:lang="en">BicolRegionorRegionV</rdfs:label>
         <rdfs:seeAlso>https://en.wikipedia.org/wiki/Bicol_Region</rdfs:seeAlso>
     </owl:Class>
     
@@ -4921,7 +4921,7 @@ Lebak municipality, northwestern Sultan Kudarat Province.&quot; (Wikipedia, 2017
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c5f6306d_9354_42c5_9cd1_eae4eb2c389a">
         <rdfs:comment>The official languages are Filipino and English. This is provided by the 1987 Constitution as expressed: &quot;Section 7. For purposes of communication and instruction, the official languages of the Philippines are Filipino and, until otherwise provided by law, English.&quot;</rdfs:comment>
-        <rdfs:label xml:lang="en">Philippine Official Languages</rdfs:label>
+        <rdfs:label xml:lang="en">Philippine_Official_Languages</rdfs:label>
         <rdfs:seeAlso>http://ncca.gov.ph/subcommissions/subcommission-on-cultural-disseminationscd/language-and-translation/development-of-filipino-the-national-language-of-the-philippines/</rdfs:seeAlso>
         <owl:backwardCompatibleWith rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ef1c77ec_deb7_489a_b36d_0aacd3921ee4"/>
     </owl:Class>
@@ -4999,7 +4999,7 @@ Lebak municipality, northwestern Sultan Kudarat Province.&quot; (Wikipedia, 2017
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_caa2ad0c_9647_43db_9c73_70dbdaf0dab6">
         <rdfs:comment>&quot;FILIPINO, the national language of the Philippines was finally settled in the 1987 Constitution. Article XIV section 6 states that “the National language of the Philippines is Filipino. As it evolves, it shall be further developed and enriched on the basis of existing Philippine and other languages.&quot; (Belvez, 2015)</rdfs:comment>
-        <rdfs:label xml:lang="en">Philippine National Language</rdfs:label>
+        <rdfs:label xml:lang="en">Philippine_National_Language</rdfs:label>
         <rdfs:seeAlso>http://ncca.gov.ph/subcommissions/subcommission-on-cultural-disseminationscd/language-and-translation/development-of-filipino-the-national-language-of-the-philippines/</rdfs:seeAlso>
     </owl:Class>
     
@@ -5404,7 +5404,7 @@ northern Palawan: Busuanga and Coron; other areas around the Philippines: Iloilo
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed">
         <rdfs:comment rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ef1c77ec_deb7_489a_b36d_0aacd3921ee4"/>
         <rdfs:comment>&quot;Philippine regions (ISO 3166-2:PH) are administrative divisions that serve primarily to organize the provinces (Filipino: lalawigan) of the country for administrative convenience.&quot; (Wikipedia, 2018)</rdfs:comment>
-        <rdfs:label xml:lang="en">Philippine Regions and Provinces, Languages and Dialects</rdfs:label>
+        <rdfs:label xml:lang="en">Philippine_Regional_and_Provincial_Languages_and_Dialects</rdfs:label>
         <rdfs:seeAlso>https://en.wikipedia.org/wiki/Languages_of_the_Philippines</rdfs:seeAlso>
         <rdfs:seeAlso>https://en.wikipedia.org/wiki/Regions_of_the_Philippines#List_of_regions</rdfs:seeAlso>
     </owl:Class>
@@ -5485,7 +5485,7 @@ northern Palawan: Busuanga and Coron; other areas around the Philippines: Iloilo
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ef1c77ec_deb7_489a_b36d_0aacd3921ee4">
         <rdfs:comment>The Philippines has 1 national language, 2 official languages, 8 major languages and 187 dialects.</rdfs:comment>
-        <rdfs:label xml:lang="en">Philippine Languages and Dialects</rdfs:label>
+        <rdfs:label xml:lang="en">Philippine_Languages_and_Dialects</rdfs:label>
         <rdfs:seeAlso>http://ncca.gov.ph/subcommissions/subcommission-on-cultural-disseminationscd/language-and-translation/development-of-filipino-the-national-language-of-the-philippines/</rdfs:seeAlso>
         <rdfs:seeAlso>https://en.wikipedia.org/wiki/Languages_of_the_Philippines</rdfs:seeAlso>
     </owl:Class>
@@ -5550,7 +5550,7 @@ northern Palawan: Busuanga and Coron; other areas around the Philippines: Iloilo
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f32ea7cc_6760_4908_acf9_dc9be3ae8ad8">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
         <rdfs:comment>It is the administrative and autonomous region because this is where most of the Muslim community resides.</rdfs:comment>
-        <rdfs:label xml:lang="en">Autonomous Region in Muslim Mindanao (ARMM)</rdfs:label>
+        <rdfs:label xml:lang="en">AutonomousRegioninMuslimMindanaoorARMM</rdfs:label>
         <rdfs:seeAlso>https://en.wikipedia.org/wiki/Autonomous_Region_in_Muslim_Mindanao</rdfs:seeAlso>
     </owl:Class>
     
