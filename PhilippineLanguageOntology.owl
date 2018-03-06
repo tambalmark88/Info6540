@@ -2854,7 +2854,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_1f9584ff_9c0f_49f8_86dc_fbecac745c53">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
-        <rdfs:comment>&quot;Metropolitan Manila[1][7] (Filipino: Kalakhang Maynila, Kamaynilaan) is the seat of government and one of the three defined metropolitan areas of the Philippines. It is officially known as the National Capital Region (NCR), and was commonly known as Metro Manila or simply Manila. It is the most densely populated region of the country.&quot; (Wikipedia, 2018)</rdfs:comment>
+        <rdfs:comment>&quot;Metropolitan Manila (Filipino: Kalakhang Maynila, Kamaynilaan) is the seat of government and one of the three defined metropolitan areas of the Philippines. It is officially known as the National Capital Region (NCR), and was commonly known as Metro Manila or simply Manila. It is the most densely populated region of the country.&quot; (Wikipedia, 2018)</rdfs:comment>
         <rdfs:label xml:lang="en">National Capital Region (NCR)</rdfs:label>
         <rdfs:seeAlso>https://en.wikipedia.org/wiki/Metro_Manila</rdfs:seeAlso>
     </owl:Class>
@@ -4049,7 +4049,11 @@ Reid (1994) reports the following locations for Umiray Dumaget (Central Agta). U
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_864d813a_7054_43df_8383_ade8935b11ec">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_87734d0d_c450_4e88_8040_11c711e3cd16"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Baybayanon was originally a Warayan language that has been relexified and overlaid by a Cebuano (Leyteño) superstratum (Rubino 2005). The Warayan substratum is characterized by Baybayanon&apos;s more Waray-like deictics, and various other features.&quot; (Wikipedia, 2017)</rdfs:comment>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;The Baybay language, also known as Baybayanon, Utudnon or Leyte, is a distinct regional language that was spoken on the island of Leyte in the Philippines before the arrival of Waray-Waray and then later, Boholano and Cebuano. It is still spoken around the city of Baybay. It is part of Visayan language family and is closely related to other Philippine languages.&quot; (Wikipedia, 2017)</rdfs:comment>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Utudnon is spoken by about 10,000 people in 5 barangays of Baybay municipality, central Leyte, namely Utúd (also called Utod or Guadalupe), Gábas, Kilím, Pátag, and Pangasúgan.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Baybay</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Baybay_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4481,7 +4485,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_2b3af9e0_e3cd_4bb7_9f5b_aca1cca59122"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_39317a01_5f26_483a_89c3_280087feb9fb"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_4894be7c_e8a4_4eb0_9853_793ce0defaf1"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Blaan is an Austronesian language of the southern Philippines. There are two major varieties of Blaan.Koronadal Blaan (Tagalagad) and Sarangani Blaan (Tumanao).&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Blaan</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Blaan_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4789,7 +4795,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c935a978_4330_4d82_8d88_f79cec46f64c">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_b1a6a45a_e848_4335_92e3_5e601bca61df"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;The Inabaknon language, also known as Abaknon, Abaknon Sama, Capuleño, Kapul, or Capul Sinama, is an Austronesian language primarily spoken in the Island Municipality of Capul. Unlike the other indigenous languages of the Eastern Visayas, namely Waray-Waray, Cebuano and Boholano, Inabaknon is not classified as part of the Visayan language family, but is rather grouped with the Sama–Bajaw languages.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Abaknon</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Abaknon_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -5237,7 +5245,12 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ecfbabb4_e7bd_4ceb_9547_a4fe9742fe5b">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_846eb0c3_9941_4d0e_bc8e_68e5b28bece0"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Although Kabalian is a Warayan language, it has mixed elements of Boholano, Cebuano and Surigaonon, a similar pattern which is also found in Baybayanon. However, Kabalian is not mutually intelligible with either Waray-Waray, Boholano, Cebuano or Surigaonon. Kabalian speakers do not ethnically or linguistically identify themselves with speakers of either of these languages.&quot; (Wikipedia, 2017)</rdfs:comment>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Kabalian is spoken in 6 villages in San Juan (Cabalian) town, Southern Leyte Province. These barangays are located in the eastern portion of the town. The predominance of Cabalianon in this side of the town is due to the fact that migrants from Cebu and Bohol settled in the western portion of the town, particularly Pong-oy, as well as in Himatagon, the business hub of Saint Bernard, formerly a part of Cabalian, resulting in the gradual disappearance of the language in these parts.&quot; (Wikipedia, 2017)</rdfs:comment>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;The Kabalian (Cabalian) language, Kinabalian, is spoken in the municipality of San Juan in the province of Southern Leyte in the Philippines. It is closely related to Waray-Waray. Native speakers refer to the language as Cabalianon or Kinabalianon. This language shares certain characteristics with Cebuano, Boholano, and Surigaonon mainly because of the seafaring livelihood of pre-Hispanic inhabitants of Cabalian, documented by Spanish explorers. Waray did not make inroads into the southern portion of Leyte because of the mountains separating the north and south portions of the island. This is coherent under the principle of mountains divide; seas unite in the spread of Philippine languages.&quot; (Wikipedia, 2017)</rdfs:comment>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;The heaviest influence on Cabalianon is Surigaonon, owing to the contact between Cabalian and Surigao in the early Spanish period. Cabalianons, as well as the natives of Sogod, regularly travelled to Surigao and Butuan to obtain gold, a fact recorded by the Augustinian Fray Agustín María de Castro in the Osario venerable.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Kabalian</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Kabalian_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -5281,7 +5294,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ee9d6ba8_ff82_4e74_a767_22de8d90ea00">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_2b3af9e0_e3cd_4bb7_9f5b_aca1cca59122"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Sarangani is a Manobo language of the Davao Region of Mindanao in the Philippines. Sarangani Manobo is spoken in the following locations (Ethnologue). Jose Abad Santos, Davao del Sur Province; Governor Generoso, Davao Oriental Province; Glan, Sarangani Province.&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Saranggani</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Sarangani_language</rdfs:seeAlso>
     </owl:Class>
     
 
