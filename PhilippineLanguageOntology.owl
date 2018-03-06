@@ -2866,7 +2866,9 @@
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_205bffa9_caf1_4caf_afe1_899691e40ad0">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_2b3af9e0_e3cd_4bb7_9f5b_aca1cca59122"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c202445d_f639_429d_8b76_25aa0eed0494"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Giangan (also known as Bagobo, Clata, Atto, Eto, Guanga, Gulanga, Jangan) is an Austronesian language of the southern Philippines. It is spoken on the eastern slopes of Mount Apo in Davao del Sur Province, as well as in Davao City (Ethnologue). They occupy a very small territory stretching from Catalunan to Calinan within Davao City.&quot; Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Bagobo</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Bagobo_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3680,7 +3682,9 @@ This is evident in the usages in spelling e.g. &quot;color&quot; instead of UK E
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_6611785f_f749_4480_b2c7_537eda1b4ad7">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c202445d_f639_429d_8b76_25aa0eed0494"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_dd25ba7d_b631_4eb1_990c_dfdd1249ebbe"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Obo is a Manobo language spoken around Mount Apo on the island of Mindanao in the Philippines.&quot; (Wikipedoa, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Obo</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Obo_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4890,7 +4894,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ce49cbc1_ff34_4d0c_b5cf_c39aeab177aa">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c202445d_f639_429d_8b76_25aa0eed0494"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Tagabawa is a Manobo language of Davao City and Mount Apo in Mindanao, the Philippines. Tagabawa is spoken in Cotabato and Davao del Sur provinces, and on the slopes of Mount Apo west of Davao City (Ethnologue).&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Tagabawa</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Tagabawa_language</rdfs:seeAlso>
     </owl:Class>
     
 
