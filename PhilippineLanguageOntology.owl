@@ -583,6 +583,33 @@
     
 
 
+    <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_435ab839_1139_4973_a453_818b757be151 -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_435ab839_1139_4973_a453_818b757be151">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_435ab839_1139_4973_a453_818b757be151"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c5f6306d_9354_42c5_9cd1_eae4eb2c389a"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_435ab839_1139_4973_a453_818b757be151"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_a17a9eb4_4b7b_4406_acd9_278c849cb509"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_435ab839_1139_4973_a453_818b757be151"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:label xml:lang="en">mayOrMayNotSpeak</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
     <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_465a1275_9a37_46d3_a192_fce117ca0dba -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_465a1275_9a37_46d3_a192_fce117ca0dba">
@@ -679,6 +706,28 @@
             </owl:Restriction>
         </rdfs:range>
         <rdfs:label xml:lang="en">Hiligaynon</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_7301c4a2_6987_4ded_9981_cd27dd4e17f8 -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_7301c4a2_6987_4ded_9981_cd27dd4e17f8">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_7301c4a2_6987_4ded_9981_cd27dd4e17f8"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_7301c4a2_6987_4ded_9981_cd27dd4e17f8"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_be2a9f1c_8158_468b_bc34_0dd7ade9f0dd"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:label xml:lang="en">isRequiredtoLearnandSpeak</rdfs:label>
     </owl:ObjectProperty>
     
 
@@ -3814,7 +3863,7 @@ Eskayan has a number of idiosyncrasies that have attracted wide interest. One of
         <rdfs:comment>&quot;Albay Bikol, or simply Albayanon is a group of languages and one of the three languages that compose Inland Bikol. It is spoken in the southwestern coast of Albay and northwestern Sorsogon (Pio Duran, Jovellar). The region is bordered by the Coastal Bikol and Rinconada Bikol or Riŋkonāda speakers. The latter is the closest language of Albay Bikol and is mutually intelligible. They are both included in Inland Bikol group of languages.
 Albay Bikol is the only sub-group of the Inland Bikol group with several languages with in it. The member languages in this sub-grouping lack stressed syllables, rare, if there is, and that makes them different and unique from other Bikol languages. The said feature of Albay Bikol is comparable to French language that rarely use stressed syllables.&quot; (Wikipedia, 2017).</rdfs:comment>
         <rdfs:comment>It is a language used in Bicolandia -- it is greatly influenced by Spanish language.</rdfs:comment>
-        <rdfs:label xml:lang="en">Albay Bikol</rdfs:label>
+        <rdfs:label xml:lang="en">Bikol</rdfs:label>
         <rdfs:seeAlso>https://en.wikipedia.org/wiki/Albay_Bikol_language</rdfs:seeAlso>
         <rdfs:seeAlso>https://en.wikivoyage.org/wiki/Bikol_phrasebook</rdfs:seeAlso>
     </owl:Class>
