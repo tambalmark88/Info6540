@@ -3298,7 +3298,9 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_39317a01_5f26_483a_89c3_280087feb9fb"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_4894be7c_e8a4_4eb0_9853_793ce0defaf1"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f9477638_9636_444f_ad01_eab3930f6ae6"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Tboli (roughly /təˈbɔːli/), also Tagabili or T&apos;boli, is an Austronesian language spoken in the southern Philippine island of Mindanao, mainly in the province of South Cotabato but also in the neighboring provinces of Sultan Kudarat and Sarangani. According to the Philippine Census from 2000, close to 100,000 Filipinos identified T&apos;boli or Tagabili as their native language.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">T&apos;boli</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Tboli_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -3859,7 +3861,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_7a376942_5c09_4e03_a09c_e231958adb60">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_b1458fe7_9ef7_4d22_b437_442c0eff36ca"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;The Kamigin language, Kinamigin (Cinamiguin, Quinamiguin) is a Manobo language spoken on the island of Camiguin in the Philippines. It is declining as most inhabitants have shifted to Cebuano.&quot; (Wikipedia, 2016)</rdfs:comment>
         <rdfs:label xml:lang="en">Kamigin</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Kamigin_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4103,6 +4107,18 @@ Reid (1994) reports the following locations for Umiray Dumaget (Central Agta). U
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_08f9ed1d_b269_428d_8c8e_0f2c56532428"/>
         <rdfs:comment>Is one of the provinces of Eastern Visayas Region</rdfs:comment>
         <rdfs:label xml:lang="en">Leyte</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_888f487f_d3ab_411d_a235_95d336f9f34f -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_888f487f_d3ab_411d_a235_95d336f9f34f">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ca7321c1_973d_400a_b6e5_094a0686de64"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Maranao (Mëranaw [ˈmәranaw] is an Austronesian language spoken by the Maranao people in the provinces of Lanao del Norte and Lanao del Sur in the Philippines, and in Sabah, Malaysia. Iranun was once considered a dialect.
+Unique among other Danao languages, Maranaoan is spoken with a distinct downstep accent, as opposed to stress accent.&quot; (Wikipedia, 2018)</rdfs:comment>
+        <rdfs:label xml:lang="en">Maranao</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Maranao_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4514,7 +4530,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ace636ae_3629_4426_b42b_dc8a8a0e6ea8">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_dd25ba7d_b631_4eb1_990c_dfdd1249ebbe"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Cotabato Manobo (Dulangan Manobo) is a Manobo language spoken in Mindanao, the Philippines. Dialects include Tasaday and Blit.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Cotabato Manobo</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Cotabato_Manobo_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4632,7 +4650,11 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_b446f818_6900_41c5_ba57_01831b5917c2">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_5034eb0a_9c1e_4bc3_b042_618d6f26dafd"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f80bb7f2_292a_41ca_ac50_ea35febbd518"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;The Alangan language is a language spoken by Mangyans in the province of Mindoro in the Philippines. Alangan is spoken by 2,150 people in the following municipalities of north-central Mindoro (Ethnologue). Sablayan municipality, Mindoro Occidental Province Naujan municipality, Mindoro Oriental Province, Victoria municipality, Mindoro Oriental Province
+The Ayan Bekeg dialect spoken on the northeast slopes of Mount Halcon is understood by Alangan speakers throughout the area (Tweddell 1970).
+Barbian (1977) lists the following locations - Casague, Santa Cruz, Occidental Mindoro; Kulasisi (tributary of the Mompong River), near Barrio Arellano, Sablayan, Occidental Mindoro.&apos; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Alangan</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Alangan_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4734,7 +4756,11 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c2732ec2_93bf_42b5_9373_bc93646ee307">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_dd25ba7d_b631_4eb1_990c_dfdd1249ebbe"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f9477638_9636_444f_ad01_eab3930f6ae6"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;Tiruray is an Austronesian language of the southern Philippines. According to Ethnologue, Tiruray is spoken in: Datu Blah T. Sinsuat, Upi, and South Upi municipalities, in southwestern Maguindanao Province
+Lebak municipality, northwestern Sultan Kudarat Province.&quot; (Wikipedia, 2017)</rdfs:comment>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">P. Guillermo Benassar published a Spanish-Tiruray dictionary in 1892.</rdfs:comment>
         <rdfs:label xml:lang="en">Tiruray</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Tiruray_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4775,7 +4801,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
 
     <owl:Class rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_c3883256_538b_4450_913c_7f4c30a8f29e">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ca7321c1_973d_400a_b6e5_094a0686de64"/>
-        <rdfs:label xml:lang="en">Iranun/Maranao</rdfs:label>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;The Iranun language also Iranon, Illanun is an Austronesian language belonging to the Danao languages spoken in the provinces of Maguindanao and other part of Lanao del Sur and Lanao del Norte and Cotabato in southern Philippines and the Malaysian state of Sabah. It is the second most spoken language in Maguindanao after the Maguindanao language.&quot; (Wikipedia, 2017)</rdfs:comment>
+        <rdfs:label xml:lang="en">Iranun</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Iranun_language</rdfs:seeAlso>
     </owl:Class>
     
 
@@ -4817,7 +4845,9 @@ Albay Bikol is the only sub-group of the Inland Bikol group with several languag
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_2404f49a_08db_495c_a8c6_1827108151ac"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_5719b6da_e27d_4242_813a_91055989b217"/>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_e1653196_d6bb_499a_9ae4_f891584c5875"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">&quot;The Subanon language (also Subanen and Subanun) is an Austronesian language belonging to the Mindanao languages. It is typically considered by linguists as a dialect cluster more than a monolithic language. Subanon is spoken in various areas of Zamboanga Peninsula namely the provinces of Zamboanga Sibugay, Zamboanga del Norte and Zamboanga del Sur, and in Misamis Occidental of Northern Mindanao. There is also a sizeable Subanon community in Misamis Oriental. Most go by the name of Subanen, Subanon or Subanun, while those who adhere to Islam refer to themselves as Kalibugan.&quot; (Wikipedia, 2017)</rdfs:comment>
         <rdfs:label xml:lang="en">Subanon</rdfs:label>
+        <rdfs:seeAlso rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">https://en.wikipedia.org/wiki/Subanon_language</rdfs:seeAlso>
     </owl:Class>
     
 
