@@ -2378,12 +2378,6 @@
     
 
 
-    <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_b1689191_61a7_4d56_a6be_173d85e3c3d9 -->
-
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_b1689191_61a7_4d56_a6be_173d85e3c3d9"/>
-    
-
-
     <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_c2be9504_b65c_45bc_9385_3afe76568f88 -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_c2be9504_b65c_45bc_9385_3afe76568f88">
@@ -2431,16 +2425,6 @@
             </owl:Restriction>
         </rdfs:range>
         <rdfs:label xml:lang="en">Pangasinan</rdfs:label>
-    </owl:ObjectProperty>
-    
-
-
-    <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_d0b691b1_9469_42cb_815a_1f3fe23b81a1 -->
-
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_d0b691b1_9469_42cb_815a_1f3fe23b81a1">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
-        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-        <rdfs:label xml:lang="en">isUsed</rdfs:label>
     </owl:ObjectProperty>
     
 
