@@ -385,15 +385,6 @@
     
 
 
-    <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_3c4c1f90_40dc_41e9_b1ff_bbc865c08c1c -->
-
-    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_3c4c1f90_40dc_41e9_b1ff_bbc865c08c1c">
-        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
-        <rdfs:label xml:lang="en">PhilippineDialects</rdfs:label>
-    </owl:ObjectProperty>
-    
-
-
     <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_425c0bd2_7e38_43dd_80db_fda3b62a33c3 -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_425c0bd2_7e38_43dd_80db_fda3b62a33c3">
@@ -743,7 +734,6 @@
     <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_8caabd41_188b_42f9_8aec_b7a409099213 -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_8caabd41_188b_42f9_8aec_b7a409099213">
-        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_3c4c1f90_40dc_41e9_b1ff_bbc865c08c1c"/>
         <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#TransitiveProperty"/>
         <rdfs:range>
             <owl:Restriction>
