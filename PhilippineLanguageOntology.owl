@@ -2254,6 +2254,7 @@
                 <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ffdb09ea_13a5_4fd6_a61b_f3419cc20ed1"/>
             </owl:Restriction>
         </rdfs:range>
+        <rdfs:comment>This is the connector between which provinces can speak these dialects. They can be spread out all over the county but not resticted just within the same province</rdfs:comment>
         <rdfs:label xml:lang="en">alsoSpeaks</rdfs:label>
     </owl:ObjectProperty>
     
