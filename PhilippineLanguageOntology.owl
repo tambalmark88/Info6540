@@ -804,6 +804,12 @@
         <rdfs:range>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_8caabd41_188b_42f9_8aec_b7a409099213"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_a19fe821_68f8_465f_9128_2a3d0ddaead0"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_8caabd41_188b_42f9_8aec_b7a409099213"/>
                 <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_a1bd01eb_13a6_4068_be76_4f867f4d0d03"/>
             </owl:Restriction>
         </rdfs:range>
