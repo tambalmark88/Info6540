@@ -117,6 +117,7 @@
                 <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fc73d6b9_06d3_445d_886a_c56f35e94734"/>
             </owl:Restriction>
         </rdfs:range>
+        <rdfs:comment>One of the major languages.</rdfs:comment>
         <rdfs:label xml:lang="en">Waray</rdfs:label>
     </owl:ObjectProperty>
     
@@ -378,6 +379,7 @@
                 <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_f269a857_acef_4bce_aa5f_699954e15ece"/>
             </owl:Restriction>
         </rdfs:range>
+        <rdfs:comment>One of the major languages.</rdfs:comment>
         <rdfs:label xml:lang="en">Cebuano</rdfs:label>
     </owl:ObjectProperty>
     
@@ -578,6 +580,7 @@
                 <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fb25a7d0_f0d9_42bb_ba14_b908afff6435"/>
             </owl:Restriction>
         </rdfs:range>
+        <rdfs:comment>One of the major languages.</rdfs:comment>
         <rdfs:label xml:lang="en">Tagalog</rdfs:label>
     </owl:ObjectProperty>
     
@@ -605,6 +608,8 @@
                 <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_ea402c8f_2406_45c1_af02_13f5570abbed"/>
             </owl:Restriction>
         </rdfs:range>
+        <rdfs:comment>English being one of the official languages, as a second language, and used as a medium of instruction for most curriculum from elementary to university. However, not everyone can go to school so not everyone may naturally speak it.</rdfs:comment>
+        <rdfs:comment>English is also incorporated in all legal forms, documents and any government forms with a Filipino translation on the second line of each line.</rdfs:comment>
         <rdfs:label xml:lang="en">mayOrMayNotSpeak</rdfs:label>
     </owl:ObjectProperty>
     
@@ -705,6 +710,7 @@
                 <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fc73d6b9_06d3_445d_886a_c56f35e94734"/>
             </owl:Restriction>
         </rdfs:range>
+        <rdfs:comment>One of the major languages.</rdfs:comment>
         <rdfs:label xml:lang="en">Hiligaynon</rdfs:label>
     </owl:ObjectProperty>
     
@@ -724,9 +730,11 @@
         <rdfs:range>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_7301c4a2_6987_4ded_9981_cd27dd4e17f8"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_be2a9f1c_8158_468b_bc34_0dd7ade9f0dd"/>
+                <owl:qualifiedCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:qualifiedCardinality>
+                <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_be2a9f1c_8158_468b_bc34_0dd7ade9f0dd"/>
             </owl:Restriction>
         </rdfs:range>
+        <rdfs:comment>This is used to identify Filipino language being the national language and therefore required by law for legal forms and documents, medium of instructions for Filipino-related courses and/or subject matters.</rdfs:comment>
         <rdfs:label xml:lang="en">isRequiredtoLearnandSpeak</rdfs:label>
     </owl:ObjectProperty>
     
@@ -2307,6 +2315,7 @@
                 <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_d08ca28a_ab43_460d_91ce_272a1b6f8794"/>
             </owl:Restriction>
         </rdfs:range>
+        <rdfs:comment>One of the major languages.</rdfs:comment>
         <rdfs:label xml:lang="en">Kapampangan</rdfs:label>
     </owl:ObjectProperty>
     
@@ -2365,6 +2374,7 @@
                 <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fc73d6b9_06d3_445d_886a_c56f35e94734"/>
             </owl:Restriction>
         </rdfs:range>
+        <rdfs:comment>One of the major languages.</rdfs:comment>
         <rdfs:label xml:lang="en">Bikol</rdfs:label>
     </owl:ObjectProperty>
     
@@ -2373,6 +2383,7 @@
     <!-- http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753 -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/Philippinelanguagesontology#OWLObjectProperty_af2e49a1_8856_4963_ba62_2bec4a7a7753">
+        <rdfs:comment>This is the connecting word to create the relationships between a major language being spoken by which provinces and regions which the language may be locally spoken.</rdfs:comment>
         <rdfs:label xml:lang="en">isSpokenby</rdfs:label>
     </owl:ObjectProperty>
     
@@ -2424,6 +2435,7 @@
                 <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fdf51354_5c3c_4f0a_bf5f_1426eb0ec877"/>
             </owl:Restriction>
         </rdfs:range>
+        <rdfs:comment>One of the major languages.</rdfs:comment>
         <rdfs:label xml:lang="en">Pangasinan</rdfs:label>
     </owl:ObjectProperty>
     
@@ -2545,6 +2557,7 @@
                 <owl:onClass rdf:resource="http://www.semanticweb.org/Philippinelanguagesontology#OWLClass_fdf51354_5c3c_4f0a_bf5f_1426eb0ec877"/>
             </owl:Restriction>
         </rdfs:range>
+        <rdfs:comment>One of the major languages.</rdfs:comment>
         <rdfs:label xml:lang="en">Ilocano</rdfs:label>
     </owl:ObjectProperty>
     
